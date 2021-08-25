@@ -14793,10 +14793,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.2.17.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.2.18.apk",
     "lang": "es",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 0,
     "sources": [
       {
@@ -19850,17 +19850,17 @@
   {
     "name": "Tachiyomi: Tortuga Ceviri",
     "pkg": "eu.kanade.tachiyomi.extension.tr.tortugaceviri",
-    "apk": "tachiyomi-tr.tortugaceviri-v1.2.3.apk",
+    "apk": "tachiyomi-tr.tortugaceviri-v1.2.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
         "name": "Tortuga Ceviri",
         "lang": "tr",
         "id": "2122147045761338532",
-        "baseUrl": "http://tortuga-ceviri.com",
+        "baseUrl": "http://tortugaceviri.com",
         "nsfw": false
       }
     ]
