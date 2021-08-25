@@ -17166,6 +17166,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Argos Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.argoshentai",
+    "apk": "tachiyomi-pt.argoshentai-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Argos Hentai",
+        "lang": "pt-BR",
+        "id": "4098235600934784466",
+        "baseUrl": "https://agshentai.com",
+        "nsfw": true
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Argos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argosscan",
     "apk": "tachiyomi-pt.argosscan-v1.2.14.apk",
@@ -17454,6 +17472,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Final Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.finalscans",
+    "apk": "tachiyomi-pt.finalscans-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Final Scans",
+        "lang": "pt-BR",
+        "id": "6168945536463997067",
+        "baseUrl": "https://finalscans.com",
+        "nsfw": true
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Fleur Blanche",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
     "apk": "tachiyomi-pt.fleurblanche-v1.2.11.apk",
@@ -17598,6 +17634,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hakai Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.hakaiscan",
+    "apk": "tachiyomi-pt.hakaiscan-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Hakai Scan",
+        "lang": "pt-BR",
+        "id": "5666678207150020968",
+        "baseUrl": "http://hakaiscan.xyz",
+        "nsfw": true
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai Kai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hentaikai",
     "apk": "tachiyomi-pt.hentaikai-v1.2.1.apk",
@@ -17738,6 +17792,24 @@
         "id": "1369117541868504584",
         "baseUrl": "https://imperioscans.com.br",
         "nsfw": false
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Iris Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.irisscanlator",
+    "apk": "tachiyomi-pt.irisscanlator-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Iris Scanlator",
+        "lang": "pt-BR",
+        "id": "4620717489663911014",
+        "baseUrl": "https://irisscanlator.com",
+        "nsfw": true
       }
     ]
   },
@@ -18192,6 +18264,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: OTksScanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.otksscanlator",
+    "apk": "tachiyomi-pt.otksscanlator-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "OTksScanlator",
+        "lang": "pt-BR",
+        "id": "4196417900021875698",
+        "baseUrl": "https://otkscanlator.xyz",
+        "nsfw": true
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Prisma Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
     "apk": "tachiyomi-pt.prismascans-v1.2.12.apk",
@@ -18264,6 +18354,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Reaper Scans (BR)",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscansbr",
+    "apk": "tachiyomi-pt.reaperscansbr-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Reaper Scans (BR)",
+        "lang": "pt-BR",
+        "id": "7767018058145795388",
+        "baseUrl": "https://reaperscans.com.br",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Red Ribbon Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.redribbonscanlator",
     "apk": "tachiyomi-pt.redribbonscanlator-v1.2.12.apk",
@@ -18318,6 +18426,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Seikou Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.seikouscans",
+    "apk": "tachiyomi-pt.seikouscans-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Seikou Scans",
+        "lang": "pt-BR",
+        "id": "4000493290015775097",
+        "baseUrl": "https://seikouscans.com",
+        "nsfw": true
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Silence Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.silencescan",
     "apk": "tachiyomi-pt.silencescan-v1.2.15.apk",
@@ -18336,6 +18462,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Sindria Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.sindriascanlator",
+    "apk": "tachiyomi-pt.sindriascanlator-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Sindria Scanlator",
+        "lang": "pt-BR",
+        "id": "4936352339770718094",
+        "baseUrl": "https://sindriascanlator.com",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sinensis",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sinensis",
     "apk": "tachiyomi-pt.sinensis-v1.2.12.apk",
@@ -18350,6 +18494,24 @@
         "id": "3891513807564817914",
         "baseUrl": "https://sinensisscan.com",
         "nsfw": false
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: SodaScan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.sodascan",
+    "apk": "tachiyomi-pt.sodascan-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "SodaScan",
+        "lang": "pt-BR",
+        "id": "7330705555862299741",
+        "baseUrl": "https://sodascan.xyz",
+        "nsfw": true
       }
     ]
   },
@@ -18482,17 +18644,17 @@
   {
     "name": "Tachiyomi: Vapo Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.vaposcan",
-    "apk": "tachiyomi-pt.vaposcan-v1.2.12.apk",
+    "apk": "tachiyomi-pt.vaposcan-v1.2.13.apk",
     "lang": "pt-BR",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
         "name": "Vapo Scan",
         "lang": "pt-BR",
-        "id": "7174512388106177404",
-        "baseUrl": "https://vaposcan.net",
+        "id": "271724643245214241",
+        "baseUrl": "https://vaposcans.com",
         "nsfw": false
       }
     ]
