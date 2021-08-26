@@ -8421,10 +8421,10 @@
   {
     "name": "Tachiyomi: Lumine Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminescans",
-    "apk": "tachiyomi-en.luminescans-v1.2.11.apk",
+    "apk": "tachiyomi-en.luminescans-v1.2.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "sources": [
       {
@@ -10743,10 +10743,10 @@
   {
     "name": "Tachiyomi: Manhua Plus",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuaplus",
-    "apk": "tachiyomi-en.manhuaplus-v1.2.14.apk",
+    "apk": "tachiyomi-en.manhuaplus-v1.2.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "sources": [
       {
@@ -14793,10 +14793,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.2.18.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.2.19.apk",
     "lang": "es",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0,
     "sources": [
       {
