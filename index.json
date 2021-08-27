@@ -4817,6 +4817,31 @@
     ]
   },
   {
+    "name": "Tachiyomi: Reaper Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.all.reaperscans",
+    "apk": "tachiyomi-all.reaperscans-v1.2.13.apk",
+    "lang": "all",
+    "code": 13,
+    "version": "1.2.13",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Reaper Scans",
+        "lang": "en",
+        "id": "5177220001642863679",
+        "baseUrl": "https://reaperscans.com",
+        "nsfw": false
+      },
+      {
+        "name": "Reaper Scans",
+        "lang": "pt-BR",
+        "id": "7767018058145795388",
+        "baseUrl": "https://reaperscans.com.br",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Simply Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.simplyhentai",
     "apk": "tachiyomi-all.simplyhentai-v1.2.4.apk",
@@ -5902,6 +5927,24 @@
         "lang": "ar",
         "id": "8407918086430822161",
         "baseUrl": "https://queensmanga.com",
+        "nsfw": false
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RE Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.remanga",
+    "apk": "tachiyomi-ar.remanga-v1.2.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "RE Manga",
+        "lang": "ar",
+        "id": "3856301446711562004",
+        "baseUrl": "https://re-manga.com",
         "nsfw": false
       }
     ]
@@ -12901,24 +12944,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Reaper Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.2.12.apk",
-    "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Reaper Scans",
-        "lang": "en",
-        "id": "5177220001642863679",
-        "baseUrl": "https://reaperscans.com",
-        "nsfw": false
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Renascence Scans (Renascans)",
     "pkg": "eu.kanade.tachiyomi.extension.en.renascans",
     "apk": "tachiyomi-en.renascans-v1.2.12.apk",
@@ -13749,10 +13774,10 @@
   {
     "name": "Tachiyomi: Tsumino",
     "pkg": "eu.kanade.tachiyomi.extension.en.tsumino",
-    "apk": "tachiyomi-en.tsumino-v1.2.4.apk",
+    "apk": "tachiyomi-en.tsumino-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1,
     "sources": [
       {
@@ -17778,24 +17803,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Império dos Otakus",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodosotakus",
-    "apk": "tachiyomi-pt.imperiodosotakus-v1.2.13.apk",
-    "lang": "pt-BR",
-    "code": 13,
-    "version": "1.2.13",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Império dos Otakus",
-        "lang": "pt-BR",
-        "id": "3491273955759390744",
-        "baseUrl": "https://imperiodosotakus.tk",
-        "nsfw": false
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Império Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperioscans",
     "apk": "tachiyomi-pt.imperioscans-v1.2.11.apk",
@@ -18367,24 +18374,6 @@
         "lang": "pt-BR",
         "id": "8295593204533043008",
         "baseUrl": "https://randomscan.online",
-        "nsfw": false
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Reaper Scans (BR)",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscansbr",
-    "apk": "tachiyomi-pt.reaperscansbr-v1.2.11.apk",
-    "lang": "pt-BR",
-    "code": 11,
-    "version": "1.2.11",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Reaper Scans (BR)",
-        "lang": "pt-BR",
-        "id": "7767018058145795388",
-        "baseUrl": "https://reaperscans.com.br",
         "nsfw": false
       }
     ]
