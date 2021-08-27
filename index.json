@@ -17625,18 +17625,18 @@
   {
     "name": "Tachiyomi: Gekkou Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouscan",
-    "apk": "tachiyomi-pt.gekkouscan-v1.2.6.apk",
+    "apk": "tachiyomi-pt.gekkouscan-v1.2.11.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1,
     "sources": [
       {
         "name": "Gekkou Scans",
         "lang": "pt-BR",
-        "id": "283011527490839966",
-        "baseUrl": "https://leitor.gekkouscans.com.br",
-        "nsfw": false
+        "id": "38569701795132984",
+        "baseUrl": "https://gekkouscans.com.br",
+        "nsfw": true
       }
     ]
   },
@@ -18345,17 +18345,17 @@
   {
     "name": "Tachiyomi: Rachel Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.rachelscanlator",
-    "apk": "tachiyomi-pt.rachelscanlator-v1.2.11.apk",
+    "apk": "tachiyomi-pt.rachelscanlator-v1.2.12.apk",
     "lang": "pt-BR",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 1,
     "sources": [
       {
         "name": "Rachel Scanlator",
         "lang": "pt-BR",
         "id": "6882798559431929878",
-        "baseUrl": "https://rachelscanlator.tk",
+        "baseUrl": "https://rachelscanlator.com",
         "nsfw": true
       }
     ]
