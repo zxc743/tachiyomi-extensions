@@ -1170,10 +1170,10 @@
   {
     "name": "Tachiyomi: Commit Strip",
     "pkg": "eu.kanade.tachiyomi.extension.all.commitstrip",
-    "apk": "tachiyomi-all.commitstrip-v1.2.2.apk",
+    "apk": "tachiyomi-all.commitstrip-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
@@ -6445,10 +6445,10 @@
   {
     "name": "Tachiyomi: BeeManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.beemanga",
-    "apk": "tachiyomi-en.beemanga-v1.2.2.apk",
+    "apk": "tachiyomi-en.beemanga-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
@@ -6571,10 +6571,10 @@
   {
     "name": "Tachiyomi: Bulu Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.bulumanga",
-    "apk": "tachiyomi-en.bulumanga-v1.2.2.apk",
+    "apk": "tachiyomi-en.bulumanga-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
@@ -7787,10 +7787,10 @@
   {
     "name": "Tachiyomi: HolyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.holymanga",
-    "apk": "tachiyomi-en.holymanga-v1.2.3.apk",
+    "apk": "tachiyomi-en.holymanga-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -8201,10 +8201,10 @@
   {
     "name": "Tachiyomi: Koo Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.koomanga",
-    "apk": "tachiyomi-en.koomanga-v1.2.3.apk",
+    "apk": "tachiyomi-en.koomanga-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -10127,10 +10127,10 @@
   {
     "name": "Tachiyomi: Mangasail",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasail",
-    "apk": "tachiyomi-en.mangasail-v1.2.2.apk",
+    "apk": "tachiyomi-en.mangasail-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
@@ -10829,10 +10829,10 @@
   {
     "name": "Tachiyomi: Manhua Plus",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuaplus",
-    "apk": "tachiyomi-en.manhuaplus-v1.2.15.apk",
+    "apk": "tachiyomi-en.manhuaplus-v1.2.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 0,
     "sources": [
       {
@@ -11657,10 +11657,10 @@
   {
     "name": "Tachiyomi: My Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mytoon",
-    "apk": "tachiyomi-en.mytoon-v1.2.2.apk",
+    "apk": "tachiyomi-en.mytoon-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
