@@ -1369,10 +1369,10 @@
   {
     "name": "Tachiyomi: Dragon Ball Multiverse",
     "pkg": "eu.kanade.tachiyomi.extension.all.dragonball_multiverse",
-    "apk": "tachiyomi-all.dragonball_multiverse-v1.2.3.apk",
+    "apk": "tachiyomi-all.dragonball_multiverse-v1.2.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
