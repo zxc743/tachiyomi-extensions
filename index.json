@@ -15174,10 +15174,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-    "apk": "tachiyomi-es.tumangaonline-v1.2.35.apk",
+    "apk": "tachiyomi-es.tumangaonline-v1.2.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.2.35",
+    "code": 36,
+    "version": "1.2.36",
     "nsfw": 0,
     "sources": [
       {
