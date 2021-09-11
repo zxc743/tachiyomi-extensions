@@ -2879,10 +2879,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.132.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.133.apk",
     "lang": "all",
-    "code": 132,
-    "version": "1.2.132",
+    "code": 133,
+    "version": "1.2.133",
     "nsfw": 1,
     "sources": [
       {
@@ -15469,10 +15469,10 @@
   {
     "name": "Tachiyomi: Mangas Origines",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangasorigines",
-    "apk": "tachiyomi-fr.mangasorigines-v1.2.12.apk",
+    "apk": "tachiyomi-fr.mangasorigines-v1.2.13.apk",
     "lang": "fr",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 1,
     "sources": [
       {
@@ -20454,17 +20454,17 @@
   {
     "name": "Tachiyomi: Gufeng Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-    "apk": "tachiyomi-zh.gufengmh-v1.2.3.apk",
+    "apk": "tachiyomi-zh.gufengmh-v1.2.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
         "name": "古风漫画网",
         "lang": "zh",
         "id": "4341893737383682159",
-        "baseUrl": "https://m.gufengmh8.com",
+        "baseUrl": "https://m.gufengmh9.com",
         "nsfw": false
       }
     ]
