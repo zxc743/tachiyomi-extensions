@@ -6902,10 +6902,10 @@
   {
     "name": "Tachiyomi: DragonTea",
     "pkg": "eu.kanade.tachiyomi.extension.en.dragontea",
-    "apk": "tachiyomi-en.dragontea-v1.2.13.apk",
+    "apk": "tachiyomi-en.dragontea-v1.2.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
@@ -17174,14 +17174,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki128.net",
+        "baseUrl": "https://manatoki129.net",
         "nsfw": false
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki128.com",
+        "baseUrl": "https://newtoki129.com",
         "nsfw": false
       }
     ]
