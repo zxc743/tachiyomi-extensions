@@ -19617,24 +19617,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Gunahkar Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.gunahkarmanga",
-    "apk": "tachiyomi-tr.gunahkarmanga-v1.2.11.apk",
-    "lang": "tr",
-    "code": 11,
-    "version": "1.2.11",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Gunahkar Manga",
-        "lang": "tr",
-        "id": "2263295167364968472",
-        "baseUrl": "https://gunahkarmanga.com",
-        "nsfw": false
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: GuncelManga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.guncelmanga",
     "apk": "tachiyomi-tr.guncelmanga-v1.2.12.apk",
