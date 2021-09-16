@@ -7182,10 +7182,10 @@
   {
     "name": "Tachiyomi: FastManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.fastmanhwa",
-    "apk": "tachiyomi-en.fastmanhwa-v1.2.12.apk",
+    "apk": "tachiyomi-en.fastmanhwa-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 1,
     "sources": [
       {
