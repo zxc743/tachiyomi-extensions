@@ -12148,6 +12148,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Random Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.randomscans",
+    "apk": "tachiyomi-en.randomscans-v1.2.12.apk",
+    "lang": "en",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Random Scans",
+        "lang": "en",
+        "id": "8706422677890189532",
+        "baseUrl": "https://randomscans.xyz",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Random Translations",
     "pkg": "eu.kanade.tachiyomi.extension.en.randomtranslations",
     "apk": "tachiyomi-en.randomtranslations-v1.2.12.apk",
