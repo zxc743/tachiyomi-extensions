@@ -14578,24 +14578,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ancient Empire Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.ancientempirescan",
-    "apk": "tachiyomi-es.ancientempirescan-v1.2.12.apk",
-    "lang": "es",
-    "code": 12,
-    "version": "1.2.12",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Ancient Empire Scan",
-        "lang": "es",
-        "id": "3882533952662181241",
-        "baseUrl": "https://ancientempirescan.website",
-        "nsfw": false
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ApollComics",
     "pkg": "eu.kanade.tachiyomi.extension.es.apollcomics",
     "apk": "tachiyomi-es.apollcomics-v1.2.12.apk",
