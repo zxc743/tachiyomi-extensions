@@ -18719,10 +18719,10 @@
   {
     "name": "Tachiyomi: Tao Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taosect",
-    "apk": "tachiyomi-pt.taosect-v1.2.7.apk",
+    "apk": "tachiyomi-pt.taosect-v1.2.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
