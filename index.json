@@ -7740,10 +7740,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.2.15.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.2.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 1,
     "sources": [
       {
@@ -18591,6 +18591,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Scanlator Hunters",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.scanlatorhunters",
+    "apk": "tachiyomi-pt.scanlatorhunters-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Scanlator Hunters",
+        "lang": "pt-BR",
+        "id": "3757266766758667750",
+        "baseUrl": "https://scanlatorhunters.xyz",
+        "nsfw": true
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Seikou Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.seikouscans",
     "apk": "tachiyomi-pt.seikouscans-v1.2.11.apk",
@@ -18719,10 +18737,10 @@
   {
     "name": "Tachiyomi: Tao Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taosect",
-    "apk": "tachiyomi-pt.taosect-v1.2.8.apk",
+    "apk": "tachiyomi-pt.taosect-v1.2.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0,
     "sources": [
       {
@@ -18971,17 +18989,17 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.2.10.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.2.11.apk",
     "lang": "ru",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1,
     "sources": [
       {
         "name": "AllHentai",
         "lang": "ru",
-        "id": "83473010923167077",
-        "baseUrl": "http://24.allhen.online",
+        "id": "1809051393403180443",
+        "baseUrl": "http://23.allhen.online",
         "nsfw": true
       }
     ]
