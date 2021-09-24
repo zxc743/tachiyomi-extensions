@@ -5622,6 +5622,42 @@
     ]
   },
   {
+    "name": "Tachiyomi: iiMANGA",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.iimanga",
+    "apk": "tachiyomi-ar.iimanga-v1.2.11.apk",
+    "lang": "ar",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "iiMANGA",
+        "lang": "ar",
+        "id": "230017529540228175",
+        "baseUrl": "https://iimanga.com",
+        "nsfw": false
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Magus Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.magusmanga",
+    "apk": "tachiyomi-ar.magusmanga-v1.2.11.apk",
+    "lang": "ar",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Magus Manga",
+        "lang": "ar",
+        "id": "7792477462646075400",
+        "baseUrl": "https://magusmanga.com",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: مانجا العاشق",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manga3asq",
     "apk": "tachiyomi-ar.manga3asq-v1.2.12.apk",
@@ -16970,10 +17006,10 @@
   {
     "name": "Tachiyomi: WeLoveManga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawlh",
-    "apk": "tachiyomi-ja.rawlh-v1.2.7.apk",
+    "apk": "tachiyomi-ja.rawlh-v1.2.8.apk",
     "lang": "ja",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
@@ -20400,10 +20436,10 @@
   {
     "name": "Tachiyomi: CopyManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-    "apk": "tachiyomi-zh.copymanga-v1.2.16.apk",
+    "apk": "tachiyomi-zh.copymanga-v1.2.17.apk",
     "lang": "zh",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0,
     "sources": [
       {
