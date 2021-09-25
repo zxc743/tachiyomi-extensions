@@ -17210,14 +17210,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki130.net",
+        "baseUrl": "https://manatoki131.net",
         "nsfw": false
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki130.com",
+        "baseUrl": "https://newtoki131.com",
         "nsfw": false
       }
     ]
@@ -18791,10 +18791,10 @@
   {
     "name": "Tachiyomi: Tao Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taosect",
-    "apk": "tachiyomi-pt.taosect-v1.2.10.apk",
+    "apk": "tachiyomi-pt.taosect-v1.2.11.apk",
     "lang": "pt-BR",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1,
     "sources": [
       {
