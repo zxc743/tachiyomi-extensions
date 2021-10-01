@@ -16700,17 +16700,17 @@
   {
     "name": "Tachiyomi: Mangaworld",
     "pkg": "eu.kanade.tachiyomi.extension.it.mangaworld",
-    "apk": "tachiyomi-it.mangaworld-v1.2.4.apk",
+    "apk": "tachiyomi-it.mangaworld-v1.2.5.apk",
     "lang": "it",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1,
     "sources": [
       {
         "name": "Mangaworld",
         "lang": "it",
         "id": "7114846210461894145",
-        "baseUrl": "https://www.mangaworld.io",
+        "baseUrl": "https://www.mangaworld.in",
         "nsfw": true
       }
     ]
