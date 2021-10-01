@@ -7709,24 +7709,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: HentaiMimi",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hentaimimi",
-    "apk": "tachiyomi-en.hentaimimi-v1.2.5.apk",
-    "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "HentaiMimi",
-        "lang": "en",
-        "id": "7127538005442013193",
-        "baseUrl": "https://hentaimimi.com",
-        "nsfw": true
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: HentaiRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentairead",
     "apk": "tachiyomi-en.hentairead-v1.2.12.apk",
@@ -18600,10 +18582,10 @@
   {
     "name": "Tachiyomi: Prisma Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.2.12.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.2.13.apk",
     "lang": "pt-BR",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
