@@ -19122,10 +19122,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.2.11.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.2.12.apk",
     "lang": "ru",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 1,
     "sources": [
       {
@@ -19356,10 +19356,10 @@
   {
     "name": "Tachiyomi: Mintmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.2.32.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.2.33.apk",
     "lang": "ru",
-    "code": 32,
-    "version": "1.2.32",
+    "code": 33,
+    "version": "1.2.33",
     "nsfw": 0,
     "sources": [
       {
@@ -19392,17 +19392,17 @@
   {
     "name": "Tachiyomi: Readmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.2.31.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.2.32.apk",
     "lang": "ru",
-    "code": 31,
-    "version": "1.2.31",
+    "code": 32,
+    "version": "1.2.32",
     "nsfw": 0,
     "sources": [
       {
         "name": "Readmanga",
         "lang": "ru",
         "id": "5",
-        "baseUrl": "https://readmanga.live",
+        "baseUrl": "https://readmanga.io",
         "nsfw": false
       }
     ]
@@ -19464,10 +19464,10 @@
   {
     "name": "Tachiyomi: Selfmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.2.10.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.2.11.apk",
     "lang": "ru",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0,
     "sources": [
       {
