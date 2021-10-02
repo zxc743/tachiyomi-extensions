@@ -17271,14 +17271,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki131.net",
+        "baseUrl": "https://manatoki132.net",
         "nsfw": false
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki131.com",
+        "baseUrl": "https://newtoki132.com",
         "nsfw": false
       }
     ]
@@ -18186,10 +18186,10 @@
   {
     "name": "Tachiyomi: MangaYabu!",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangayabu",
-    "apk": "tachiyomi-pt.mangayabu-v1.2.12.apk",
+    "apk": "tachiyomi-pt.mangayabu-v1.2.13.apk",
     "lang": "pt-BR",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
