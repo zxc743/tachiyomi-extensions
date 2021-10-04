@@ -7993,6 +7993,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hardworking Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hwtmanga",
+    "apk": "tachiyomi-en.hwtmanga-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Hardworking Translations",
+        "lang": "en",
+        "id": "196264639394534554",
+        "baseUrl": "https://www.hwtmanga.com/hwt/",
+        "nsfw": true
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hyakuro",
     "pkg": "eu.kanade.tachiyomi.extension.en.hyakuro",
     "apk": "tachiyomi-en.hyakuro-v1.2.3.apk",
@@ -20378,10 +20396,10 @@
   {
     "name": "Tachiyomi: MeDocTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.medoctruyentranh",
-    "apk": "tachiyomi-vi.medoctruyentranh-v1.2.3.apk",
+    "apk": "tachiyomi-vi.medoctruyentranh-v1.2.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
