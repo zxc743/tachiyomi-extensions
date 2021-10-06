@@ -2494,10 +2494,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.2.32.apk",
+    "apk": "tachiyomi-all.komga-v1.2.33.apk",
     "lang": "all",
-    "code": 32,
-    "version": "1.2.32",
+    "code": 33,
+    "version": "1.2.33",
     "nsfw": 0,
     "sources": [
       {
@@ -21015,17 +21015,17 @@
   {
     "name": "Tachiyomi: Zerobyw",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
-    "apk": "tachiyomi-zh.zerobyw-v1.2.2.apk",
+    "apk": "tachiyomi-zh.zerobyw-v1.2.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "https://www.zerobywps5.com",
+        "baseUrl": "https://www.zerobyw3ds.com",
         "nsfw": false
       }
     ]
