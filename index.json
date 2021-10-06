@@ -17732,10 +17732,10 @@
   {
     "name": "Tachiyomi: Drope Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dropescan",
-    "apk": "tachiyomi-pt.dropescan-v1.2.14.apk",
+    "apk": "tachiyomi-pt.dropescan-v1.2.15.apk",
     "lang": "pt-BR",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "sources": [
       {
