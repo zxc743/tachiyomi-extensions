@@ -10947,6 +10947,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: MyKomiks",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mykomiks",
+    "apk": "tachiyomi-en.mykomiks-v1.2.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MyKomiks",
+        "lang": "en",
+        "id": "1850787622749820314",
+        "baseUrl": "https://mykomiks.fun"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mystical Merries",
     "pkg": "eu.kanade.tachiyomi.extension.en.mysticalmerries",
     "apk": "tachiyomi-en.mysticalmerries-v1.2.13.apk",
@@ -17796,10 +17813,10 @@
   {
     "name": "Tachiyomi: War Queen Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.warqueenscan",
-    "apk": "tachiyomi-pt.warqueenscan-v1.2.15.apk",
+    "apk": "tachiyomi-pt.warqueenscan-v1.2.16.apk",
     "lang": "pt-BR",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 0,
     "sources": [
       {
@@ -18389,6 +18406,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: MikuDoujin",
+    "pkg": "eu.kanade.tachiyomi.extension.th.mikudoujin",
+    "apk": "tachiyomi-th.mikudoujin-v1.2.1.apk",
+    "lang": "th",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MikuDoujin",
+        "lang": "th",
+        "id": "3142948916822290453",
+        "baseUrl": "https://miku-doujin.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nekopost",
     "pkg": "eu.kanade.tachiyomi.extension.th.nekopost",
     "apk": "tachiyomi-th.nekopost-v1.2.5.apk",
@@ -18402,6 +18436,23 @@
         "lang": "th",
         "id": "4353470354941192417",
         "baseUrl": "https://www.nekopost.net/project"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Rh2PlusManga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.rh2plusmanga",
+    "apk": "tachiyomi-th.rh2plusmanga-v1.2.12.apk",
+    "lang": "th",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Rh2PlusManga",
+        "lang": "th",
+        "id": "2315996722342902216",
+        "baseUrl": "https://www.rh2plusmanga.com"
       }
     ]
   },
