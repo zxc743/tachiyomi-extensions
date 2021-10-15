@@ -17949,10 +17949,10 @@
   {
     "name": "Tachiyomi: ComX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.2.8.apk",
+    "apk": "tachiyomi-ru.comx-v1.2.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0,
     "sources": [
       {
@@ -18017,10 +18017,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.55.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.56.apk",
     "lang": "ru",
-    "code": 55,
-    "version": "1.2.55",
+    "code": 56,
+    "version": "1.2.56",
     "nsfw": 0,
     "sources": [
       {
