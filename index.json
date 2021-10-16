@@ -4958,10 +4958,10 @@
   {
     "name": "Tachiyomi: AR FlameScans",
     "pkg": "eu.kanade.tachiyomi.extension.ar.arflamescans",
-    "apk": "tachiyomi-ar.arflamescans-v1.2.11.apk",
+    "apk": "tachiyomi-ar.arflamescans-v1.2.12.apk",
     "lang": "ar",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "sources": [
       {
@@ -8518,17 +8518,17 @@
   {
     "name": "Tachiyomi: MangaFast",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafast",
-    "apk": "tachiyomi-en.mangafast-v1.2.13.apk",
+    "apk": "tachiyomi-en.mangafast-v1.2.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaFast",
         "lang": "en",
         "id": "6140599306147980654",
-        "baseUrl": "https://mangafast.net"
+        "baseUrl": "https://mangafast.org"
       }
     ]
   },
