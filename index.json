@@ -9844,10 +9844,10 @@
   {
     "name": "Tachiyomi: Manga Weeaboo",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaweeaboo",
-    "apk": "tachiyomi-en.mangaweeaboo-v1.2.1.apk",
+    "apk": "tachiyomi-en.mangaweeaboo-v1.2.12.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "sources": [
       {
@@ -14177,23 +14177,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangas.pw",
-    "pkg": "eu.kanade.tachiyomi.extension.es.mangaspw",
-    "apk": "tachiyomi-es.mangaspw-v1.2.4.apk",
-    "lang": "es",
-    "code": 4,
-    "version": "1.2.4",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Mangas.pw",
-        "lang": "es",
-        "id": "6683576006215968722",
-        "baseUrl": "https://mangas.in"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Martial Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.martialmanga",
     "apk": "tachiyomi-es.martialmanga-v1.2.11.apk",
@@ -14933,10 +14916,10 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.2.13.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.2.14.apk",
     "lang": "id",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
@@ -16219,13 +16202,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki133.net"
+        "baseUrl": "https://manatoki134.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki133.com"
+        "baseUrl": "https://newtoki134.com"
       }
     ]
   },
@@ -16400,19 +16383,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Banana Mecânica",
+    "name": "Tachiyomi: Banana Crítica",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bananamecanica",
-    "apk": "tachiyomi-pt.bananamecanica-v1.2.13.apk",
+    "apk": "tachiyomi-pt.bananamecanica-v1.2.14.apk",
     "lang": "pt-BR",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Banana Mecânica",
+        "name": "Banana Crítica",
         "lang": "pt-BR",
-        "id": "1446482828347398872",
-        "baseUrl": "https://leitorbm.com"
+        "id": "4770070980248873010",
+        "baseUrl": "https://cillylovers.com"
       }
     ]
   },
@@ -16974,23 +16957,6 @@
         "lang": "pt-BR",
         "id": "5221484950287110636",
         "baseUrl": "https://kamisama.com.br"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Lemon Juice Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.lemonjuicescan",
-    "apk": "tachiyomi-pt.lemonjuicescan-v1.2.13.apk",
-    "lang": "pt-BR",
-    "code": 13,
-    "version": "1.2.13",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Lemon Juice Scan",
-        "lang": "pt-BR",
-        "id": "28445287987521723",
-        "baseUrl": "https://lemonjuicescan.com"
       }
     ]
   },
@@ -17862,6 +17828,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: XXX Yaoi",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
+    "apk": "tachiyomi-pt.xxxyaoi-v1.2.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "XXX Yaoi",
+        "lang": "pt-BR",
+        "id": "2490962516027621137",
+        "baseUrl": "https://xxxyaoi.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Yaoi Fan Clube",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yaoifanclube",
     "apk": "tachiyomi-pt.yaoifanclube-v1.2.13.apk",
@@ -18153,10 +18136,10 @@
   {
     "name": "Tachiyomi: Mintmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.2.33.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.2.34.apk",
     "lang": "ru",
-    "code": 33,
-    "version": "1.2.33",
+    "code": 34,
+    "version": "1.2.34",
     "nsfw": 0,
     "sources": [
       {
@@ -18204,10 +18187,10 @@
   {
     "name": "Tachiyomi: Readmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.2.32.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.2.33.apk",
     "lang": "ru",
-    "code": 32,
-    "version": "1.2.32",
+    "code": 33,
+    "version": "1.2.33",
     "nsfw": 0,
     "sources": [
       {
@@ -18221,10 +18204,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.35.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.36.apk",
     "lang": "ru",
-    "code": 35,
-    "version": "1.2.35",
+    "code": 36,
+    "version": "1.2.36",
     "nsfw": 0,
     "sources": [
       {
@@ -18391,27 +18374,27 @@
   {
     "name": "Tachiyomi: Mangauptocats",
     "pkg": "eu.kanade.tachiyomi.extension.th.mangauptocats",
-    "apk": "tachiyomi-th.mangauptocats-v1.2.12.apk",
+    "apk": "tachiyomi-th.mangauptocats-v1.2.13.apk",
     "lang": "th",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
         "name": "Mangauptocats",
         "lang": "th",
         "id": "3654234821497114418",
-        "baseUrl": "https://mangauptocats.online"
+        "baseUrl": "https://mangauptocats.net"
       }
     ]
   },
   {
     "name": "Tachiyomi: MikuDoujin",
     "pkg": "eu.kanade.tachiyomi.extension.th.mikudoujin",
-    "apk": "tachiyomi-th.mikudoujin-v1.2.1.apk",
+    "apk": "tachiyomi-th.mikudoujin-v1.2.2.apk",
     "lang": "th",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "sources": [
       {
@@ -18442,10 +18425,10 @@
   {
     "name": "Tachiyomi: Rh2PlusManga",
     "pkg": "eu.kanade.tachiyomi.extension.th.rh2plusmanga",
-    "apk": "tachiyomi-th.rh2plusmanga-v1.2.12.apk",
+    "apk": "tachiyomi-th.rh2plusmanga-v1.2.13.apk",
     "lang": "th",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
