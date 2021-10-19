@@ -1529,6 +1529,35 @@
     ]
   },
   {
+    "name": "Tachiyomi: EroCool",
+    "pkg": "eu.kanade.tachiyomi.extension.all.erocool",
+    "apk": "tachiyomi-all.erocool-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "EroCool",
+        "lang": "en",
+        "id": "5982290963286180671",
+        "baseUrl": "https://en.erocool1.com"
+      },
+      {
+        "name": "EroCool",
+        "lang": "ja",
+        "id": "6453530290693871061",
+        "baseUrl": "https://ja.erocool2.com"
+      },
+      {
+        "name": "EroCool",
+        "lang": "zh",
+        "id": "6085569177268637142",
+        "baseUrl": "https://zh.erocool3.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FoolSlide Customizable",
     "pkg": "eu.kanade.tachiyomi.extension.all.foolslidecustomizable",
     "apk": "tachiyomi-all.foolslidecustomizable-v1.2.3.apk",
@@ -4510,10 +4539,10 @@
   {
     "name": "Tachiyomi: Tappytoon",
     "pkg": "eu.kanade.tachiyomi.extension.all.tappytoon",
-    "apk": "tachiyomi-all.tappytoon-v1.2.1.apk",
+    "apk": "tachiyomi-all.tappytoon-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "sources": [
       {
@@ -5281,17 +5310,17 @@
   {
     "name": "Tachiyomi: MangaLink",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
-    "apk": "tachiyomi-ar.mangalink-v1.2.4.apk",
+    "apk": "tachiyomi-ar.mangalink-v1.2.5.apk",
     "lang": "ar",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaLink",
         "lang": "ar",
         "id": "2024895279481891604",
-        "baseUrl": "https://mangalink.org"
+        "baseUrl": "https://mangalink.cc"
       }
     ]
   },
@@ -17828,23 +17857,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: XXX Yaoi",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
-    "apk": "tachiyomi-pt.xxxyaoi-v1.2.11.apk",
-    "lang": "pt-BR",
-    "code": 11,
-    "version": "1.2.11",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "XXX Yaoi",
-        "lang": "pt-BR",
-        "id": "2490962516027621137",
-        "baseUrl": "https://xxxyaoi.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Yaoi Fan Clube",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yaoifanclube",
     "apk": "tachiyomi-pt.yaoifanclube-v1.2.13.apk",
@@ -19349,10 +19361,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.24.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.25.apk",
     "lang": "zh",
-    "code": 24,
-    "version": "1.2.24",
+    "code": 25,
+    "version": "1.2.25",
     "nsfw": 0,
     "sources": [
       {
