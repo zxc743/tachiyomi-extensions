@@ -1531,10 +1531,10 @@
   {
     "name": "Tachiyomi: EroCool",
     "pkg": "eu.kanade.tachiyomi.extension.all.erocool",
-    "apk": "tachiyomi-all.erocool-v1.2.1.apk",
+    "apk": "tachiyomi-all.erocool-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "sources": [
       {
