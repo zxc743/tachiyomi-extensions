@@ -777,10 +777,10 @@
   {
     "name": "Tachiyomi: Comick.fun",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.2.7.apk",
+    "apk": "tachiyomi-all.comickfun-v1.2.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1,
     "sources": [
       {
@@ -6960,6 +6960,23 @@
         "lang": "en",
         "id": "4637971935551651734",
         "baseUrl": "https://guya.moe"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gone with the Blastwave",
+    "pkg": "eu.kanade.tachiyomi.extension.en.gwtb",
+    "apk": "tachiyomi-en.gwtb-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Gone with the Blastwave",
+        "lang": "en",
+        "id": "4006397036545425884",
+        "baseUrl": "http://www.blastwave-comic.com"
       }
     ]
   },
