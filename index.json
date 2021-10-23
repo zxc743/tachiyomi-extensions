@@ -2671,10 +2671,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.139.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.140.apk",
     "lang": "all",
-    "code": 139,
-    "version": "1.2.139",
+    "code": 140,
+    "version": "1.2.140",
     "nsfw": 1,
     "sources": [
       {
@@ -5988,19 +5988,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Batoto Scans",
+    "name": "Tachiyomi: Snudae Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.batotoscans",
-    "apk": "tachiyomi-en.batotoscans-v1.2.12.apk",
+    "apk": "tachiyomi-en.batotoscans-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Batoto Scans",
+        "name": "Snudae Scans",
         "lang": "en",
         "id": "4418350353197826372",
-        "baseUrl": "https://batotoscans.com"
+        "baseUrl": "https://snudaescans.com"
       }
     ]
   },
@@ -6143,10 +6143,10 @@
   {
     "name": "Tachiyomi: CatManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.catmanga",
-    "apk": "tachiyomi-en.catmanga-v1.2.6.apk",
+    "apk": "tachiyomi-en.catmanga-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "sources": [
       {
@@ -6847,17 +6847,17 @@
   {
     "name": "Tachiyomi: GalaxyDegenScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
-    "apk": "tachiyomi-en.galaxydegenscans-v1.2.12.apk",
+    "apk": "tachiyomi-en.galaxydegenscans-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
         "name": "GalaxyDegenScans",
         "lang": "en",
         "id": "4598626990187882152",
-        "baseUrl": "https://gdegenscans.xyz/"
+        "baseUrl": "https://gdscan.xyz"
       }
     ]
   },
@@ -7442,10 +7442,10 @@
   {
     "name": "Tachiyomi: Imperfect Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.imperfectcomics",
-    "apk": "tachiyomi-en.imperfectcomics-v1.2.12.apk",
+    "apk": "tachiyomi-en.imperfectcomics-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
@@ -7731,10 +7731,10 @@
   {
     "name": "Tachiyomi: Kouhai Work",
     "pkg": "eu.kanade.tachiyomi.extension.en.kouhaiwork",
-    "apk": "tachiyomi-en.kouhaiwork-v1.2.3.apk",
+    "apk": "tachiyomi-en.kouhaiwork-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -16248,13 +16248,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki134.net"
+        "baseUrl": "https://manatoki135.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki134.com"
+        "baseUrl": "https://newtoki135.com"
       }
     ]
   },
