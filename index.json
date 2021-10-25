@@ -7457,6 +7457,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Infernal Void Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.2.12.apk",
+    "lang": "en",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Infernal Void Scans",
+        "lang": "en",
+        "id": "6422096666751316291",
+        "baseUrl": "https://infernalvoidscans.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: INKR",
     "pkg": "eu.kanade.tachiyomi.extension.en.inkr",
     "apk": "tachiyomi-en.inkr-v1.2.3.apk",
@@ -12468,6 +12485,23 @@
         "lang": "en",
         "id": "491136778235925004",
         "baseUrl": "https://shieldmanga.club"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Shimada Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.shimadascans",
+    "apk": "tachiyomi-en.shimadascans-v1.2.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Shimada Scans",
+        "lang": "en",
+        "id": "8240465236242834470",
+        "baseUrl": "https://shimadascans.com"
       }
     ]
   },
