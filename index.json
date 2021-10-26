@@ -10704,6 +10704,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manta Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manta",
+    "apk": "tachiyomi-en.manta-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manta",
+        "lang": "en",
+        "id": "8753096034341798862",
+        "baseUrl": "https://manta.net"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManyComic",
     "pkg": "eu.kanade.tachiyomi.extension.en.manycomic",
     "apk": "tachiyomi-en.manycomic-v1.2.12.apk",
@@ -17959,23 +17976,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Yaoi Fan Clube",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.yaoifanclube",
-    "apk": "tachiyomi-pt.yaoifanclube-v1.2.13.apk",
-    "lang": "pt-BR",
-    "code": 13,
-    "version": "1.2.13",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Yaoi Fan Clube",
-        "lang": "pt-BR",
-        "id": "8518328252873596364",
-        "baseUrl": "https://yaoifanclube.com.br"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Yaoi Toshokan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yaoitoshokan",
     "apk": "tachiyomi-pt.yaoitoshokan-v1.2.14.apk",
@@ -19678,6 +19678,23 @@
         "lang": "zh",
         "id": "8252565807829914103",
         "baseUrl": "https://www.cocomanga.com/"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Picacomic",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.picacomic",
+    "apk": "tachiyomi-zh.picacomic-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "哔咔漫画",
+        "lang": "zh",
+        "id": "5768337869316468367",
+        "baseUrl": "https://picaapi.picacomic.com"
       }
     ]
   },
