@@ -7459,10 +7459,10 @@
   {
     "name": "Tachiyomi: Infernal Void Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.2.12.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
@@ -16186,6 +16186,23 @@
         "lang": "ja",
         "id": "5726629019734498294",
         "baseUrl": "https://tonarinoyj.jp"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Twi4",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.twi4",
+    "apk": "tachiyomi-ja.twi4-v1.2.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Twi4",
+        "lang": "ja",
+        "id": "493846804748918744",
+        "baseUrl": "https://sai-zen-sen.jp/comics/twi4/"
       }
     ]
   },
