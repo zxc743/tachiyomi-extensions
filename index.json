@@ -3889,6 +3889,77 @@
     ]
   },
   {
+    "name": "Tachiyomi: NETCOMICS",
+    "pkg": "eu.kanade.tachiyomi.extension.all.netcomics",
+    "apk": "tachiyomi-all.netcomics-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NETCOMICS",
+        "lang": "en",
+        "id": "1092426791507706451",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "ja",
+        "id": "6498378027912753226",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "zh",
+        "id": "8989243968052292151",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "ko",
+        "id": "4806204252295922228",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "es",
+        "id": "3167060041508710882",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "fr",
+        "id": "1009572047148639864",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "de",
+        "id": "3651487425639000693",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "id",
+        "id": "5125800465148240881",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "vi",
+        "id": "4708161739566122373",
+        "baseUrl": "https://www.netcomics.com"
+      },
+      {
+        "name": "NETCOMICS",
+        "lang": "th",
+        "id": "4406990850444710688",
+        "baseUrl": "https://www.netcomics.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
     "apk": "tachiyomi-all.nhentai-v1.2.29.apk",
@@ -7459,10 +7530,10 @@
   {
     "name": "Tachiyomi: Infernal Void Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.2.13.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.2.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
