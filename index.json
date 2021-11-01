@@ -1908,10 +1908,10 @@
   {
     "name": "Tachiyomi: Hitomi.la",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.2.10.apk",
+    "apk": "tachiyomi-all.hitomi-v1.2.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1,
     "sources": [
       {
@@ -2217,6 +2217,29 @@
         "lang": "ru",
         "id": "7505608677115153818",
         "baseUrl": "https://imhentai.xxx"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: izneo (webtoons)",
+    "pkg": "eu.kanade.tachiyomi.extension.all.izneo",
+    "apk": "tachiyomi-all.izneo-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "izneo",
+        "lang": "en",
+        "id": "538401814782653655",
+        "baseUrl": "https://izneo.com/en/webtoon"
+      },
+      {
+        "name": "izneo",
+        "lang": "fr",
+        "id": "8731426556710150917",
+        "baseUrl": "https://izneo.com/fr/webtoon"
       }
     ]
   },
@@ -4610,10 +4633,10 @@
   {
     "name": "Tachiyomi: Tappytoon",
     "pkg": "eu.kanade.tachiyomi.extension.all.tappytoon",
-    "apk": "tachiyomi-all.tappytoon-v1.2.2.apk",
+    "apk": "tachiyomi-all.tappytoon-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1,
     "sources": [
       {
@@ -6629,10 +6652,10 @@
   {
     "name": "Tachiyomi: Edelgarde Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.edelgardescans",
-    "apk": "tachiyomi-en.edelgardescans-v1.2.1.apk",
+    "apk": "tachiyomi-en.edelgardescans-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
@@ -7445,10 +7468,10 @@
   {
     "name": "Tachiyomi: Hunlight Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.hunlightscans",
-    "apk": "tachiyomi-en.hunlightscans-v1.2.1.apk",
+    "apk": "tachiyomi-en.hunlightscans-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
@@ -8142,10 +8165,10 @@
   {
     "name": "Tachiyomi: LynxScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.lynxscans",
-    "apk": "tachiyomi-en.lynxscans-v1.2.4.apk",
+    "apk": "tachiyomi-en.lynxscans-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0,
     "sources": [
       {
@@ -9434,11 +9457,11 @@
   {
     "name": "Tachiyomi: MangaPill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapill",
-    "apk": "tachiyomi-en.mangapill-v1.2.5.apk",
+    "apk": "tachiyomi-en.mangapill-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
-    "nsfw": 0,
+    "code": 6,
+    "version": "1.2.6",
+    "nsfw": 1,
     "sources": [
       {
         "name": "MangaPill",
@@ -13004,10 +13027,10 @@
   {
     "name": "Tachiyomi: The Nonames Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.thenonamesscans",
-    "apk": "tachiyomi-en.thenonamesscans-v1.2.1.apk",
+    "apk": "tachiyomi-en.thenonamesscans-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
@@ -13837,10 +13860,10 @@
   {
     "name": "Tachiyomi: ZeroScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.zeroscans",
-    "apk": "tachiyomi-en.zeroscans-v1.2.1.apk",
+    "apk": "tachiyomi-en.zeroscans-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
@@ -17129,23 +17152,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Iris Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.irisscanlator",
-    "apk": "tachiyomi-pt.irisscanlator-v1.2.11.apk",
-    "lang": "pt-BR",
-    "code": 11,
-    "version": "1.2.11",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Iris Scanlator",
-        "lang": "pt-BR",
-        "id": "4620717489663911014",
-        "baseUrl": "https://irisscanlator.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Kami Sama Explorer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer",
     "apk": "tachiyomi-pt.kamisamaexplorer-v1.2.11.apk",
@@ -17261,23 +17267,6 @@
         "lang": "pt-BR",
         "id": "1625075103965897034",
         "baseUrl": "https://markscans.online"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mega Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.megamangas",
-    "apk": "tachiyomi-pt.megamangas-v1.2.11.apk",
-    "lang": "pt-BR",
-    "code": 11,
-    "version": "1.2.11",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Mega Mangás",
-        "lang": "pt-BR",
-        "id": "3574021924492528285",
-        "baseUrl": "https://megamanga.com.br"
       }
     ]
   },
@@ -18168,10 +18157,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.2.12.apk",
+    "apk": "tachiyomi-ru.desu-v1.2.13.apk",
     "lang": "ru",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
@@ -19324,10 +19313,10 @@
   {
     "name": "Tachiyomi: MeDocTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.medoctruyentranh",
-    "apk": "tachiyomi-vi.medoctruyentranh-v1.2.4.apk",
+    "apk": "tachiyomi-vi.medoctruyentranh-v1.2.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0,
     "sources": [
       {
@@ -19653,10 +19642,10 @@
   {
     "name": "Tachiyomi: Kuaikanmanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua",
-    "apk": "tachiyomi-zh.kuaikanmanhua-v1.2.5.apk",
+    "apk": "tachiyomi-zh.kuaikanmanhua-v1.2.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0,
     "sources": [
       {
@@ -19823,10 +19812,10 @@
   {
     "name": "Tachiyomi: QiXiManhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.qiximh",
-    "apk": "tachiyomi-zh.qiximh-v1.2.2.apk",
+    "apk": "tachiyomi-zh.qiximh-v1.2.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
