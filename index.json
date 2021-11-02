@@ -2399,10 +2399,10 @@
   {
     "name": "Tachiyomi: Leviatan Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.leviatanscans",
-    "apk": "tachiyomi-all.leviatanscans-v1.2.18.apk",
+    "apk": "tachiyomi-all.leviatanscans-v1.2.19.apk",
     "lang": "all",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0,
     "sources": [
       {
@@ -13582,23 +13582,6 @@
         "lang": "en",
         "id": "6750082404202711318",
         "baseUrl": "https://www.webtoon.xyz"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: WeComics",
-    "pkg": "eu.kanade.tachiyomi.extension.en.wecomics",
-    "apk": "tachiyomi-en.wecomics-v1.2.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "WeComics",
-        "lang": "en",
-        "id": "8113708733526940251",
-        "baseUrl": "https://m.wecomics.com"
       }
     ]
   },
