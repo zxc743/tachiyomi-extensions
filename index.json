@@ -14351,6 +14351,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manhwa-Latino",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
+    "apk": "tachiyomi-es.manhwalatino-v1.2.11.apk",
+    "lang": "es",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manhwa-Latino",
+        "lang": "es",
+        "id": "3548601371328353875",
+        "baseUrl": "https://manhwa-latino.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Martial Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.martialmanga",
     "apk": "tachiyomi-es.martialmanga-v1.2.11.apk",
