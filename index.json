@@ -7109,6 +7109,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Harimanga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.harimanga",
+    "apk": "tachiyomi-en.harimanga-v1.2.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Harimanga",
+        "lang": "en",
+        "id": "4088566215115473619",
+        "baseUrl": "https://harimanga.com/"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hatigarm Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.hatigarmscans",
     "apk": "tachiyomi-en.hatigarmscans-v1.2.2.apk",
@@ -8550,6 +8567,23 @@
         "lang": "en",
         "id": "5207865546105058326",
         "baseUrl": "https://mangacv.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaDig",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangadig",
+    "apk": "tachiyomi-en.mangadig-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MangaDig",
+        "lang": "en",
+        "id": "3963516991936737407",
+        "baseUrl": "https://mangadig.com/"
       }
     ]
   },
@@ -12532,6 +12566,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Scylla Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.scyllascans",
+    "apk": "tachiyomi-en.scyllascans-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Scylla Scans",
+        "lang": "en",
+        "id": "1226318899020270912",
+        "baseUrl": "https://scyllascans.org/"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Seafoam Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.seafoamscans",
     "apk": "tachiyomi-en.seafoamscans-v1.2.13.apk",
@@ -12568,10 +12619,10 @@
   {
     "name": "Tachiyomi: Setsu Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.setsuscans",
-    "apk": "tachiyomi-en.setsuscans-v1.2.12.apk",
+    "apk": "tachiyomi-en.setsuscans-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
@@ -16410,13 +16461,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki136.net"
+        "baseUrl": "https://manatoki137.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki136.com"
+        "baseUrl": "https://newtoki137.com"
       }
     ]
   },
@@ -18463,10 +18514,10 @@
   {
     "name": "Tachiyomi: WayManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.waymanga",
-    "apk": "tachiyomi-ru.waymanga-v1.2.1.apk",
+    "apk": "tachiyomi-ru.waymanga-v1.2.2.apk",
     "lang": "ru",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
