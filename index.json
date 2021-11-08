@@ -3767,10 +3767,10 @@
   {
     "name": "Tachiyomi: Manhwa18.cc",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhwa18cc",
-    "apk": "tachiyomi-all.manhwa18cc-v1.2.11.apk",
+    "apk": "tachiyomi-all.manhwa18cc-v1.2.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 1,
     "sources": [
       {
@@ -4493,10 +4493,10 @@
   {
     "name": "Tachiyomi: Ravens Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.ravensscans",
-    "apk": "tachiyomi-all.ravensscans-v1.2.1.apk",
+    "apk": "tachiyomi-all.ravensscans-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "sources": [
       {
@@ -12568,10 +12568,10 @@
   {
     "name": "Tachiyomi: Scylla Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.scyllascans",
-    "apk": "tachiyomi-en.scyllascans-v1.2.1.apk",
+    "apk": "tachiyomi-en.scyllascans-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
@@ -16593,10 +16593,10 @@
   {
     "name": "Tachiyomi: Argos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argosscan",
-    "apk": "tachiyomi-pt.argosscan-v1.2.16.apk",
+    "apk": "tachiyomi-pt.argosscan-v1.2.17.apk",
     "lang": "pt-BR",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0,
     "sources": [
       {
@@ -18593,6 +18593,23 @@
         "lang": "th",
         "id": "7675946366494793306",
         "baseUrl": "https://cat-translator.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaDeemak",
+    "pkg": "eu.kanade.tachiyomi.extension.th.mangadeemak",
+    "apk": "tachiyomi-th.mangadeemak-v1.2.11.apk",
+    "lang": "th",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaDeemak",
+        "lang": "th",
+        "id": "5352049364858878748",
+        "baseUrl": "https://mangadeemak.com"
       }
     ]
   },
