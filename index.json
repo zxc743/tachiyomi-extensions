@@ -5045,6 +5045,29 @@
     ]
   },
   {
+    "name": "Tachiyomi: xkcd",
+    "pkg": "eu.kanade.tachiyomi.extension.all.xkcd",
+    "apk": "tachiyomi-all.xkcd-v1.2.11.apk",
+    "lang": "all",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "xkcd",
+        "lang": "en",
+        "id": "1538249443376436084",
+        "baseUrl": "https://xkcd.com"
+      },
+      {
+        "name": "xkcd",
+        "lang": "zh",
+        "id": "8162821425156695837",
+        "baseUrl": "https://xkcd.tw"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Yaoi Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.all.yaoimangaonline",
     "apk": "tachiyomi-all.yaoimangaonline-v1.2.2.apk",
@@ -13705,23 +13728,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: xkcd",
-    "pkg": "eu.kanade.tachiyomi.extension.en.xkcd",
-    "apk": "tachiyomi-en.xkcd-v1.2.10.apk",
-    "lang": "en",
-    "code": 10,
-    "version": "1.2.10",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "xkcd",
-        "lang": "en",
-        "id": "1538249443376436084",
-        "baseUrl": "https://xkcd.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: XManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.xmanga",
     "apk": "tachiyomi-en.xmanga-v1.2.11.apk",
@@ -18395,10 +18401,10 @@
   {
     "name": "Tachiyomi: Newbie",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.2.1.apk",
+    "apk": "tachiyomi-ru.newbie-v1.2.2.apk",
     "lang": "ru",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
