@@ -5047,10 +5047,10 @@
   {
     "name": "Tachiyomi: xkcd",
     "pkg": "eu.kanade.tachiyomi.extension.all.xkcd",
-    "apk": "tachiyomi-all.xkcd-v1.2.11.apk",
+    "apk": "tachiyomi-all.xkcd-v1.2.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "sources": [
       {
@@ -5061,9 +5061,33 @@
       },
       {
         "name": "xkcd",
+        "lang": "es",
+        "id": "6901469937775055420",
+        "baseUrl": "https://es.xkcd.com"
+      },
+      {
+        "name": "xkcd",
         "lang": "zh",
         "id": "8162821425156695837",
         "baseUrl": "https://xkcd.tw"
+      },
+      {
+        "name": "xkcd",
+        "lang": "fr",
+        "id": "987306860406766740",
+        "baseUrl": "https://xkcd.lapin.org"
+      },
+      {
+        "name": "xkcd",
+        "lang": "ru",
+        "id": "3742763978853704441",
+        "baseUrl": "https://xkcd.ru"
+      },
+      {
+        "name": "xkcd",
+        "lang": "ko",
+        "id": "8991801071431971982",
+        "baseUrl": "https://xkcdko.com"
       }
     ]
   },
@@ -6254,23 +6278,6 @@
         "lang": "en",
         "id": "6510192726488246111",
         "baseUrl": "https://ww8.bulumanga.net"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: CatManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.catmanga",
-    "apk": "tachiyomi-en.catmanga-v1.2.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "CatManga",
-        "lang": "en",
-        "id": "3478372263491691886",
-        "baseUrl": "https://catmanga.org"
       }
     ]
   },
@@ -13367,6 +13374,23 @@
         "lang": "en",
         "id": "4144095310583587831",
         "baseUrl": "https://twilightscans.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ultralight Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.ultralightscans",
+    "apk": "tachiyomi-en.ultralightscans-v1.2.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Ultralight Scans",
+        "lang": "en",
+        "id": "3324431994888040758",
+        "baseUrl": "https://readlight.org"
       }
     ]
   },
