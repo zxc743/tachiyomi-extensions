@@ -8535,17 +8535,17 @@
   {
     "name": "Tachiyomi: Manga Chill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangachill",
-    "apk": "tachiyomi-en.mangachill-v1.2.13.apk",
+    "apk": "tachiyomi-en.mangachill-v1.2.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
         "name": "Manga Chill",
         "lang": "en",
         "id": "1646428256207102930",
-        "baseUrl": "https://mangachill.com/"
+        "baseUrl": "https://mangachill.com"
       }
     ]
   },
@@ -18459,17 +18459,17 @@
   {
     "name": "Tachiyomi: Newbie",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.2.2.apk",
+    "apk": "tachiyomi-ru.newbie-v1.2.3.apk",
     "lang": "ru",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
         "name": "Newbie",
         "lang": "ru",
         "id": "8033757373676218584",
-        "baseUrl": "https://newbie-tl.ru"
+        "baseUrl": "https://newmanga.org"
       }
     ]
   },
