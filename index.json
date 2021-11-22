@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.2.18.apk",
+    "apk": "tachiyomi-all.asurascans-v1.2.19.apk",
     "lang": "all",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0,
     "sources": [
       {
@@ -6197,12 +6197,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: Bilibili Comics",
+    "name": "Tachiyomi: BILIBILI COMICS",
     "pkg": "eu.kanade.tachiyomi.extension.en.bilibilicomics",
-    "apk": "tachiyomi-en.bilibilicomics-v1.2.7.apk",
+    "apk": "tachiyomi-en.bilibilicomics-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1,
     "sources": [
       {
@@ -16691,10 +16691,10 @@
   {
     "name": "Tachiyomi: Argos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argosscan",
-    "apk": "tachiyomi-pt.argosscan-v1.2.17.apk",
+    "apk": "tachiyomi-pt.argosscan-v1.2.18.apk",
     "lang": "pt-BR",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 0,
     "sources": [
       {
@@ -17422,10 +17422,10 @@
   {
     "name": "Tachiyomi: Meus Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.meusmangas",
-    "apk": "tachiyomi-pt.meusmangas-v1.2.6.apk",
+    "apk": "tachiyomi-pt.meusmangas-v1.2.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1,
     "sources": [
       {
@@ -17743,6 +17743,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ow Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.owscan",
+    "apk": "tachiyomi-pt.owscan-v1.2.12.apk",
+    "lang": "pt-BR",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Ow Scan",
+        "lang": "pt-BR",
+        "id": "8533256843165928062",
+        "baseUrl": "https://owscan.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Prisma Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
     "apk": "tachiyomi-pt.prismascans-v1.2.14.apk",
@@ -17960,6 +17977,23 @@
         "lang": "pt-BR",
         "id": "3891513807564817914",
         "baseUrl": "https://sinensisscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Smash Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.smashscan",
+    "apk": "tachiyomi-pt.smashscan-v1.2.12.apk",
+    "lang": "pt-BR",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Smash Scan",
+        "lang": "pt-BR",
+        "id": "5618555678200490782",
+        "baseUrl": "https://smashscan.com.br"
       }
     ]
   },
