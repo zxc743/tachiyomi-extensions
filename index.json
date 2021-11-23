@@ -3621,10 +3621,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.2.25.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.2.26.apk",
     "lang": "all",
-    "code": 25,
-    "version": "1.2.25",
+    "code": 26,
+    "version": "1.2.26",
     "nsfw": 0,
     "sources": [
       {
@@ -16174,10 +16174,10 @@
   {
     "name": "Tachiyomi: Comic Gardo",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comicgardo",
-    "apk": "tachiyomi-ja.comicgardo-v1.2.3.apk",
+    "apk": "tachiyomi-ja.comicgardo-v1.2.4.apk",
     "lang": "ja",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -16208,10 +16208,10 @@
   {
     "name": "Tachiyomi: Kurage Bunch",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kuragebunch",
-    "apk": "tachiyomi-ja.kuragebunch-v1.2.3.apk",
+    "apk": "tachiyomi-ja.kuragebunch-v1.2.4.apk",
     "lang": "ja",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -16225,10 +16225,10 @@
   {
     "name": "Tachiyomi: Magazine Pocket",
     "pkg": "eu.kanade.tachiyomi.extension.ja.magazinepocket",
-    "apk": "tachiyomi-ja.magazinepocket-v1.2.3.apk",
+    "apk": "tachiyomi-ja.magazinepocket-v1.2.4.apk",
     "lang": "ja",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -16242,10 +16242,10 @@
   {
     "name": "Tachiyomi: MAGCOMI",
     "pkg": "eu.kanade.tachiyomi.extension.ja.magcomi",
-    "apk": "tachiyomi-ja.magcomi-v1.2.3.apk",
+    "apk": "tachiyomi-ja.magcomi-v1.2.4.apk",
     "lang": "ja",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -16401,10 +16401,10 @@
   {
     "name": "Tachiyomi: Shonen Jump+",
     "pkg": "eu.kanade.tachiyomi.extension.ja.shonenjumpplus",
-    "apk": "tachiyomi-ja.shonenjumpplus-v1.2.5.apk",
+    "apk": "tachiyomi-ja.shonenjumpplus-v1.2.6.apk",
     "lang": "ja",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0,
     "sources": [
       {
@@ -16418,10 +16418,10 @@
   {
     "name": "Tachiyomi: Tonari no Young Jump",
     "pkg": "eu.kanade.tachiyomi.extension.ja.tonarinoyoungjump",
-    "apk": "tachiyomi-ja.tonarinoyoungjump-v1.2.3.apk",
+    "apk": "tachiyomi-ja.tonarinoyoungjump-v1.2.4.apk",
     "lang": "ja",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -16668,23 +16668,6 @@
         "lang": "pt-BR",
         "id": "6231856208896669443",
         "baseUrl": "https://animecenterscan.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Argos Hentai",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.argoshentai",
-    "apk": "tachiyomi-pt.argoshentai-v1.2.12.apk",
-    "lang": "pt-BR",
-    "code": 12,
-    "version": "1.2.12",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Argos Hentai",
-        "lang": "pt-BR",
-        "id": "4098235600934784466",
-        "baseUrl": "https://agshentai.com"
       }
     ]
   },
@@ -17059,23 +17042,6 @@
         "lang": "pt-BR",
         "id": "7800124775223356068",
         "baseUrl": "https://furioscans.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Geass Hentai",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.geasshentai",
-    "apk": "tachiyomi-pt.geasshentai-v1.2.13.apk",
-    "lang": "pt-BR",
-    "code": 13,
-    "version": "1.2.13",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Geass Hentai",
-        "lang": "pt-BR",
-        "id": "6885370474518926296",
-        "baseUrl": "https://geasshentai.xyz"
       }
     ]
   },
