@@ -1558,6 +1558,29 @@
     ]
   },
   {
+    "name": "Tachiyomi: Flame Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.all.flamescans",
+    "apk": "tachiyomi-all.flamescans-v1.2.11.apk",
+    "lang": "all",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Flame Scans",
+        "lang": "ar",
+        "id": "6053688312544266540",
+        "baseUrl": "https://ar.flamescans.org"
+      },
+      {
+        "name": "Flame Scans",
+        "lang": "en",
+        "id": "6350607071566689772",
+        "baseUrl": "https://flamescans.org"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FoolSlide Customizable",
     "pkg": "eu.kanade.tachiyomi.extension.all.foolslidecustomizable",
     "apk": "tachiyomi-all.foolslidecustomizable-v1.2.3.apk",
@@ -5122,23 +5145,6 @@
         "lang": "ar",
         "id": "107810123708352143",
         "baseUrl": "https://akumanga.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: AR FlameScans",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.arflamescans",
-    "apk": "tachiyomi-ar.arflamescans-v1.2.12.apk",
-    "lang": "ar",
-    "code": 12,
-    "version": "1.2.12",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "AR FlameScans",
-        "lang": "ar",
-        "id": "6053688312544266540",
-        "baseUrl": "https://ar.flamescans.org"
       }
     ]
   },
