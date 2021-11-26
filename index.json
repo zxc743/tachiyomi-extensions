@@ -6573,10 +6573,10 @@
   {
     "name": "Tachiyomi: Disaster Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.disasterscans",
-    "apk": "tachiyomi-en.disasterscans-v1.2.13.apk",
+    "apk": "tachiyomi-en.disasterscans-v1.2.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
@@ -12938,17 +12938,17 @@
   {
     "name": "Tachiyomi: Sugar Babies",
     "pkg": "eu.kanade.tachiyomi.extension.en.sugarbabies",
-    "apk": "tachiyomi-en.sugarbabies-v1.2.13.apk",
+    "apk": "tachiyomi-en.sugarbabies-v1.2.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
         "name": "Sugar Babies",
         "lang": "en",
         "id": "4597355289532832036",
-        "baseUrl": "https://sugarbscan.com"
+        "baseUrl": "https://sugarbbscan.com"
       }
     ]
   },
@@ -16293,6 +16293,23 @@
         "lang": "ja",
         "id": "6223520752496636410",
         "baseUrl": "https://mangaraw.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nicovideo Seiga",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.nicovideoseiga",
+    "apk": "tachiyomi-ja.nicovideoseiga-v1.2.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Nicovideo Seiga",
+        "lang": "ja",
+        "id": "3825432666717481625",
+        "baseUrl": "https://seiga.nicovideo.jp"
       }
     ]
   },
