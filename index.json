@@ -16582,13 +16582,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki140.net"
+        "baseUrl": "https://manatoki141.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki140.com"
+        "baseUrl": "https://newtoki141.com"
       }
     ]
   },
@@ -20103,17 +20103,17 @@
   {
     "name": "Tachiyomi: Zerobyw",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
-    "apk": "tachiyomi-zh.zerobyw-v1.2.3.apk",
+    "apk": "tachiyomi-zh.zerobyw-v1.2.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "https://www.zerobyw3ds.com"
+        "baseUrl": "https://www.zerobywdlss.com"
       }
     ]
   }
