@@ -1057,10 +1057,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.2.9.apk",
+    "apk": "tachiyomi-all.cubari-v1.2.10.apk",
     "lang": "all",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0,
     "sources": [
       {
@@ -2298,10 +2298,10 @@
   {
     "name": "Tachiyomi: LANraragi",
     "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.2.7.apk",
+    "apk": "tachiyomi-all.lanraragi-v1.2.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
@@ -2717,10 +2717,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.143.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.144.apk",
     "lang": "all",
-    "code": 143,
-    "version": "1.2.143",
+    "code": 144,
+    "version": "1.2.144",
     "nsfw": 1,
     "sources": [
       {
@@ -2967,6 +2967,18 @@
         "name": "MangaDex",
         "lang": "no",
         "id": "4872213291993424667",
+        "baseUrl": "https://mangadex.org"
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ne",
+        "id": "954368055061084457",
+        "baseUrl": "https://mangadex.org"
+      },
+      {
+        "name": "MangaDex",
+        "lang": "other",
+        "id": "7450333477375185414",
         "baseUrl": "https://mangadex.org"
       }
     ]
@@ -6647,10 +6659,10 @@
   {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
-    "apk": "tachiyomi-en.dynasty-v1.2.15.apk",
+    "apk": "tachiyomi-en.dynasty-v1.2.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 0,
     "sources": [
       {
@@ -6988,23 +7000,6 @@
         "lang": "en",
         "id": "1112158874210561012",
         "baseUrl": "https://freewebtooncoins.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: GalaxyDegenScans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
-    "apk": "tachiyomi-en.galaxydegenscans-v1.2.16.apk",
-    "lang": "en",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "GalaxyDegenScans",
-        "lang": "en",
-        "id": "4598626990187882152",
-        "baseUrl": "https://gdscan.xyz"
       }
     ]
   },
@@ -8212,23 +8207,6 @@
         "lang": "en",
         "id": "8362190032444848573",
         "baseUrl": "https://luminescans.xyz/"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Luminous Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.2.12.apk",
-    "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Luminous Scans",
-        "lang": "en",
-        "id": "1019556752273106311",
-        "baseUrl": "https://www.luminousscans.com"
       }
     ]
   },
@@ -17035,23 +17013,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Fudido Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.fudidoscanlator",
-    "apk": "tachiyomi-pt.fudidoscanlator-v1.2.16.apk",
-    "lang": "pt-BR",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Fudido Scanlator",
-        "lang": "pt-BR",
-        "id": "6027987268796252361",
-        "baseUrl": "https://fudidoscan.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Furio Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.furioscans",
     "apk": "tachiyomi-pt.furioscans-v1.2.18.apk",
@@ -17150,23 +17111,6 @@
         "lang": "pt-BR",
         "id": "5666678207150020968",
         "baseUrl": "http://hakaiscan.xyz"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hentai Kai",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.hentaikai",
-    "apk": "tachiyomi-pt.hentaikai-v1.2.2.apk",
-    "lang": "pt-BR",
-    "code": 2,
-    "version": "1.2.2",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Hentai Kai",
-        "lang": "pt-BR",
-        "id": "4742405530214883163",
-        "baseUrl": "https://hentaikai.com"
       }
     ]
   },
@@ -19655,10 +19599,10 @@
   {
     "name": "Tachiyomi: Baozimanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.2.1.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.2.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
@@ -19831,10 +19775,10 @@
   {
     "name": "Tachiyomi: Kuaikanmanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua",
-    "apk": "tachiyomi-zh.kuaikanmanhua-v1.2.7.apk",
+    "apk": "tachiyomi-zh.kuaikanmanhua-v1.2.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
@@ -20018,10 +19962,10 @@
   {
     "name": "Tachiyomi: Tencent Comics (ac.qq.com)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.tencentcomics",
-    "apk": "tachiyomi-zh.tencentcomics-v1.2.2.apk",
+    "apk": "tachiyomi-zh.tencentcomics-v1.2.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
