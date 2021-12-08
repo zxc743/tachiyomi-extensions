@@ -6079,6 +6079,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: aurora",
+    "pkg": "eu.kanade.tachiyomi.extension.en.aurora",
+    "apk": "tachiyomi-en.aurora-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Aurora",
+        "lang": "en",
+        "id": "9148518200946142514",
+        "baseUrl": "https://comicaurora.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AZManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.azmanhwa",
     "apk": "tachiyomi-en.azmanhwa-v1.2.14.apk",
