@@ -6132,10 +6132,10 @@
   {
     "name": "Tachiyomi: Bakkin",
     "pkg": "eu.kanade.tachiyomi.extension.en.bakkin",
-    "apk": "tachiyomi-en.bakkin-v1.2.3.apk",
+    "apk": "tachiyomi-en.bakkin-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -6149,10 +6149,10 @@
   {
     "name": "Tachiyomi: Bakkin Self-hosted",
     "pkg": "eu.kanade.tachiyomi.extension.en.bakkinselfhosted",
-    "apk": "tachiyomi-en.bakkinselfhosted-v1.2.3.apk",
+    "apk": "tachiyomi-en.bakkinselfhosted-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -7021,6 +7021,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: GalaxyDegenScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
+    "apk": "tachiyomi-en.galaxydegenscans-v1.2.17.apk",
+    "lang": "en",
+    "code": 17,
+    "version": "1.2.17",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "GalaxyDegenScans",
+        "lang": "en",
+        "id": "4598626990187882152",
+        "baseUrl": "https://gdstmp.site"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: GoGoManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.gogomanga",
     "apk": "tachiyomi-en.gogomanga-v1.2.12.apk",
@@ -7822,10 +7839,10 @@
   {
     "name": "Tachiyomi: Kill Six Billion Demons",
     "pkg": "eu.kanade.tachiyomi.extension.en.killsixbilliondemons",
-    "apk": "tachiyomi-en.killsixbilliondemons-v1.2.3.apk",
+    "apk": "tachiyomi-en.killsixbilliondemons-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -18562,17 +18579,17 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.38.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.39.apk",
     "lang": "ru",
-    "code": 38,
-    "version": "1.2.38",
+    "code": 39,
+    "version": "1.2.39",
     "nsfw": 0,
     "sources": [
       {
         "name": "Remanga",
         "lang": "ru",
         "id": "8983242087533137528",
-        "baseUrl": "https://api.xn--80aaig9ahr.xn--c1avg"
+        "baseUrl": "https://api.remanga.org"
       }
     ]
   },
@@ -19962,10 +19979,10 @@
   {
     "name": "Tachiyomi: Pufei",
     "pkg": "eu.kanade.tachiyomi.extension.zh.pufei",
-    "apk": "tachiyomi-zh.pufei-v1.2.7.apk",
+    "apk": "tachiyomi-zh.pufei-v1.2.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
