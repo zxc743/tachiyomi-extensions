@@ -6013,10 +6013,10 @@
   {
     "name": "Tachiyomi: Arc-Relight",
     "pkg": "eu.kanade.tachiyomi.extension.en.arcrelight",
-    "apk": "tachiyomi-en.arcrelight-v1.2.6.apk",
+    "apk": "tachiyomi-en.arcrelight-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "sources": [
       {
@@ -6030,10 +6030,10 @@
   {
     "name": "Tachiyomi: Assorted Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.assortedscans",
-    "apk": "tachiyomi-en.assortedscans-v1.2.6.apk",
+    "apk": "tachiyomi-en.assortedscans-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "sources": [
       {
@@ -7244,10 +7244,10 @@
   {
     "name": "Tachiyomi: Helvetica Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.helveticascans",
-    "apk": "tachiyomi-en.helveticascans-v1.2.6.apk",
+    "apk": "tachiyomi-en.helveticascans-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "sources": [
       {
@@ -16628,13 +16628,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki141.net"
+        "baseUrl": "https://manatoki142.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki141.com"
+        "baseUrl": "https://newtoki142.com"
       }
     ]
   },
