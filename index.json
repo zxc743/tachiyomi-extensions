@@ -6234,10 +6234,10 @@
   {
     "name": "Tachiyomi: BILIBILI COMICS",
     "pkg": "eu.kanade.tachiyomi.extension.en.bilibilicomics",
-    "apk": "tachiyomi-en.bilibilicomics-v1.2.8.apk",
+    "apk": "tachiyomi-en.bilibilicomics-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1,
     "sources": [
       {
@@ -17100,17 +17100,17 @@
   {
     "name": "Tachiyomi: Geass Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.geassscanlator",
-    "apk": "tachiyomi-pt.geassscanlator-v1.2.14.apk",
+    "apk": "tachiyomi-pt.geassscanlator-v1.2.17.apk",
     "lang": "pt-BR",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0,
     "sources": [
       {
         "name": "Geass Scanlator",
         "lang": "pt-BR",
-        "id": "3785730420079727491",
-        "baseUrl": "https://geassscan.xyz"
+        "id": "1228448816486487111",
+        "baseUrl": "https://geassscan.net"
       }
     ]
   },
