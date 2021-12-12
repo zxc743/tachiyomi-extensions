@@ -6013,10 +6013,10 @@
   {
     "name": "Tachiyomi: Arc-Relight",
     "pkg": "eu.kanade.tachiyomi.extension.en.arcrelight",
-    "apk": "tachiyomi-en.arcrelight-v1.2.7.apk",
+    "apk": "tachiyomi-en.arcrelight-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
@@ -6030,10 +6030,10 @@
   {
     "name": "Tachiyomi: Assorted Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.assortedscans",
-    "apk": "tachiyomi-en.assortedscans-v1.2.7.apk",
+    "apk": "tachiyomi-en.assortedscans-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
@@ -7244,10 +7244,10 @@
   {
     "name": "Tachiyomi: Helvetica Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.helveticascans",
-    "apk": "tachiyomi-en.helveticascans-v1.2.7.apk",
+    "apk": "tachiyomi-en.helveticascans-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
@@ -19531,17 +19531,17 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.2.6.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.2.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "sources": [
       {
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "http://www.nettruyenpro.com"
+        "baseUrl": "http://www.nettruyengo.com"
       }
     ]
   },
