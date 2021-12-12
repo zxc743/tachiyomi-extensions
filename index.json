@@ -13993,17 +13993,17 @@
   {
     "name": "Tachiyomi: Zahard",
     "pkg": "eu.kanade.tachiyomi.extension.en.zahard",
-    "apk": "tachiyomi-en.zahard-v1.2.5.apk",
+    "apk": "tachiyomi-en.zahard-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0,
     "sources": [
       {
         "name": "Zahard",
         "lang": "en",
         "id": "888770072469770290",
-        "baseUrl": "https://zahard.top"
+        "baseUrl": "https://zahard.xyz"
       }
     ]
   },
@@ -16709,10 +16709,10 @@
   {
     "name": "Tachiyomi: AnimaRegia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.animaregia",
-    "apk": "tachiyomi-pt.animaregia-v1.2.6.apk",
+    "apk": "tachiyomi-pt.animaregia-v1.2.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "sources": [
       {
