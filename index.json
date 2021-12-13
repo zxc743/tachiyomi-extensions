@@ -10729,17 +10729,17 @@
   {
     "name": "Tachiyomi: ManhwaManga.net",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwamanga",
-    "apk": "tachiyomi-en.manhwamanga-v1.2.5.apk",
+    "apk": "tachiyomi-en.manhwamanga-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1,
     "sources": [
       {
         "name": "ManhwaManga.net",
         "lang": "en",
         "id": "5866007440358889004",
-        "baseUrl": "https://manhwamanga.net"
+        "baseUrl": "https://mwmanhwa.net"
       }
     ]
   },
