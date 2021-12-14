@@ -6340,6 +6340,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: buttsmithy",
+    "pkg": "eu.kanade.tachiyomi.extension.en.buttsmithy",
+    "apk": "tachiyomi-en.buttsmithy-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Buttsmithy",
+        "lang": "en",
+        "id": "5116114496934092518",
+        "baseUrl": "https://incase.buttsmithy.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CatOnHeadTranslations",
     "pkg": "eu.kanade.tachiyomi.extension.en.catonheadtranslations",
     "apk": "tachiyomi-en.catonheadtranslations-v1.2.15.apk",
