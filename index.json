@@ -670,6 +670,29 @@
     ]
   },
   {
+    "name": "Tachiyomi: BILIBILI",
+    "pkg": "eu.kanade.tachiyomi.extension.all.bilibili",
+    "apk": "tachiyomi-all.bilibili-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "BILIBILI COMICS",
+        "lang": "en",
+        "id": "9044249801774780434",
+        "baseUrl": "https://www.bilibilicomics.com"
+      },
+      {
+        "name": "哔哩哔哩漫画",
+        "lang": "zh",
+        "id": "3561131545129718586",
+        "baseUrl": "https://manga.bilibili.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BugHentai (en)",
     "pkg": "eu.kanade.tachiyomi.extension.all.bughentaien",
     "apk": "tachiyomi-all.bughentaien-v1.2.2.apk",
@@ -6228,23 +6251,6 @@
         "lang": "en",
         "id": "7358406305253420469",
         "baseUrl": "https://bestmanhua.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: BILIBILI COMICS",
-    "pkg": "eu.kanade.tachiyomi.extension.en.bilibilicomics",
-    "apk": "tachiyomi-en.bilibilicomics-v1.2.9.apk",
-    "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "BILIBILI COMICS",
-        "lang": "en",
-        "id": "9044249801774780434",
-        "baseUrl": "https://www.bilibilicomics.com"
       }
     ]
   },
