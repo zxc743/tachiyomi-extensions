@@ -2269,10 +2269,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.2.34.apk",
+    "apk": "tachiyomi-all.komga-v1.2.35.apk",
     "lang": "all",
-    "code": 34,
-    "version": "1.2.34",
+    "code": 35,
+    "version": "1.2.35",
     "nsfw": 0,
     "sources": [
       {
