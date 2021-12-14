@@ -8927,10 +8927,10 @@
   {
     "name": "Tachiyomi: MangaGreat",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangagreat",
-    "apk": "tachiyomi-en.mangagreat-v1.2.15.apk",
+    "apk": "tachiyomi-en.mangagreat-v1.2.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 0,
     "sources": [
       {
@@ -10542,10 +10542,10 @@
   {
     "name": "Tachiyomi: ManhuaUS",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuaus",
-    "apk": "tachiyomi-en.manhuaus-v1.2.17.apk",
+    "apk": "tachiyomi-en.manhuaus-v1.2.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 0,
     "sources": [
       {
