@@ -672,11 +672,11 @@
   {
     "name": "Tachiyomi: BILIBILI",
     "pkg": "eu.kanade.tachiyomi.extension.all.bilibili",
-    "apk": "tachiyomi-all.bilibili-v1.2.1.apk",
+    "apk": "tachiyomi-all.bilibili-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
-    "nsfw": 1,
+    "code": 2,
+    "version": "1.2.2",
+    "nsfw": 0,
     "sources": [
       {
         "name": "BILIBILI COMICS",
@@ -5983,23 +5983,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: A Pair of 2+",
-    "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
-    "apk": "tachiyomi-en.apairof2-v1.2.11.apk",
-    "lang": "en",
-    "code": 11,
-    "version": "1.2.11",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "A Pair of 2+",
-        "lang": "en",
-        "id": "6293046913252281087",
-        "baseUrl": "https://pairof2.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
     "apk": "tachiyomi-en.aquamanga-v1.2.14.apk",
@@ -6659,23 +6642,6 @@
         "lang": "en",
         "id": "3733450486998805728",
         "baseUrl": "https://doujins.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: DragonTea",
-    "pkg": "eu.kanade.tachiyomi.extension.en.dragontea",
-    "apk": "tachiyomi-en.dragontea-v1.2.17.apk",
-    "lang": "en",
-    "code": 17,
-    "version": "1.2.17",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "DragonTea",
-        "lang": "en",
-        "id": "6573506892686767219",
-        "baseUrl": "https://dragontea.ink/"
       }
     ]
   },
@@ -8519,6 +8485,23 @@
         "lang": "en",
         "id": "4215511432986138970",
         "baseUrl": "https://m.mangabat.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaBaz",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangabaz",
+    "apk": "tachiyomi-en.mangabaz-v1.2.14.apk",
+    "lang": "en",
+    "code": 14,
+    "version": "1.2.14",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaBaz",
+        "lang": "en",
+        "id": "5658543290121496841",
+        "baseUrl": "https://mangabaz.net"
       }
     ]
   },
