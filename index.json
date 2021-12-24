@@ -1055,6 +1055,41 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comico",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comico",
+    "apk": "tachiyomi-all.comico-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "POCKET COMICS",
+        "lang": "en",
+        "id": "4823827973628449637",
+        "baseUrl": "https://www.pocketcomics.com"
+      },
+      {
+        "name": "POCKET COMICS",
+        "lang": "zh",
+        "id": "6417478599890788940",
+        "baseUrl": "https://www.pocketcomics.com"
+      },
+      {
+        "name": "コミコ",
+        "lang": "ja",
+        "id": "4991718230921189832",
+        "baseUrl": "https://www.comico.jp"
+      },
+      {
+        "name": "코미코",
+        "lang": "ko",
+        "id": "7725570951439346591",
+        "baseUrl": "https://www.comico.kr"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Commit Strip",
     "pkg": "eu.kanade.tachiyomi.extension.all.commitstrip",
     "apk": "tachiyomi-all.commitstrip-v1.2.3.apk",
@@ -8933,10 +8968,10 @@
   {
     "name": "Tachiyomi: Mangahasu",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahasu",
-    "apk": "tachiyomi-en.mangahasu-v1.2.14.apk",
+    "apk": "tachiyomi-en.mangahasu-v1.2.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "sources": [
       {
@@ -16668,13 +16703,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki143.net"
+        "baseUrl": "https://manatoki144.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki143.com"
+        "baseUrl": "https://newtoki144.com"
       }
     ]
   },
@@ -19764,10 +19799,10 @@
   {
     "name": "Tachiyomi: CopyManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-    "apk": "tachiyomi-zh.copymanga-v1.2.21.apk",
+    "apk": "tachiyomi-zh.copymanga-v1.2.22.apk",
     "lang": "zh",
-    "code": 21,
-    "version": "1.2.21",
+    "code": 22,
+    "version": "1.2.22",
     "nsfw": 0,
     "sources": [
       {
@@ -19866,10 +19901,10 @@
   {
     "name": "Tachiyomi: Jinmantiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.2.18.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.2.19.apk",
     "lang": "zh",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 1,
     "sources": [
       {
