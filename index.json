@@ -2,23 +2,23 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.2.20.apk",
+    "apk": "tachiyomi-all.asurascans-v1.2.21.apk",
     "lang": "all",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 0,
     "sources": [
       {
         "name": "Asura Scans",
         "lang": "en",
         "id": "6247824327199706550",
-        "baseUrl": "https://asurascans.com/"
+        "baseUrl": "https://asurascans.com"
       },
       {
         "name": "Asura Scans",
         "lang": "tr",
         "id": "7963074674054946733",
-        "baseUrl": "https://tr.asurascans.com/"
+        "baseUrl": "https://tr.asurascans.com"
       }
     ]
   },
@@ -2775,10 +2775,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.147.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.148.apk",
     "lang": "all",
-    "code": 147,
-    "version": "1.2.147",
+    "code": 148,
+    "version": "1.2.148",
     "nsfw": 1,
     "sources": [
       {
