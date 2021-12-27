@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.2.21.apk",
+    "apk": "tachiyomi-all.asurascans-v1.2.22.apk",
     "lang": "all",
-    "code": 21,
-    "version": "1.2.21",
+    "code": 22,
+    "version": "1.2.22",
     "nsfw": 0,
     "sources": [
       {
@@ -1618,10 +1618,10 @@
   {
     "name": "Tachiyomi: Flame Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.flamescans",
-    "apk": "tachiyomi-all.flamescans-v1.2.11.apk",
+    "apk": "tachiyomi-all.flamescans-v1.2.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "sources": [
       {
@@ -3714,10 +3714,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.2.26.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.2.27.apk",
     "lang": "all",
-    "code": 26,
-    "version": "1.2.26",
+    "code": 27,
+    "version": "1.2.27",
     "nsfw": 0,
     "sources": [
       {
@@ -5969,10 +5969,10 @@
   {
     "name": "Tachiyomi: Alpha Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.alphascans",
-    "apk": "tachiyomi-en.alphascans-v1.2.11.apk",
+    "apk": "tachiyomi-en.alphascans-v1.2.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "sources": [
       {
@@ -11516,6 +11516,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Omega Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
+    "apk": "tachiyomi-en.omegascans-v1.2.12.apk",
+    "lang": "en",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Omega Scans",
+        "lang": "en",
+        "id": "1437071111760677496",
+        "baseUrl": "https://omegascans.org"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: oots",
     "pkg": "eu.kanade.tachiyomi.extension.en.oots",
     "apk": "tachiyomi-en.oots-v1.2.2.apk",
@@ -11818,6 +11835,23 @@
         "lang": "en",
         "id": "7306937603463231374",
         "baseUrl": "https://randomtranslations.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Raw-Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.rawmanga",
+    "apk": "tachiyomi-en.rawmanga-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Raw-Manga",
+        "lang": "en",
+        "id": "1405721834292299641",
+        "baseUrl": "https://raw-manga.org"
       }
     ]
   },
@@ -15468,10 +15502,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.2.20.apk",
+    "apk": "tachiyomi-id.komikcast-v1.2.21.apk",
     "lang": "id",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 0,
     "sources": [
       {
@@ -16012,17 +16046,17 @@
   {
     "name": "Tachiyomi: World Romance Translation",
     "pkg": "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
-    "apk": "tachiyomi-id.worldromancetranslation-v1.2.16.apk",
+    "apk": "tachiyomi-id.worldromancetranslation-v1.2.17.apk",
     "lang": "id",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0,
     "sources": [
       {
         "name": "World Romance Translation",
         "lang": "id",
         "id": "3921803774683581703",
-        "baseUrl": "https://wrt.my.id/"
+        "baseUrl": "https://wrt.my.id"
       }
     ]
   },
@@ -16299,6 +16333,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comic Days",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comicdays",
+    "apk": "tachiyomi-ja.comicdays-v1.2.4.apk",
+    "lang": "ja",
+    "code": 4,
+    "version": "1.2.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Comic Days",
+        "lang": "ja",
+        "id": "5332604811772266259",
+        "baseUrl": "https://comic-days.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comic Gardo",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comicgardo",
     "apk": "tachiyomi-ja.comicgardo-v1.2.4.apk",
@@ -16312,6 +16363,23 @@
         "lang": "ja",
         "id": "3118962894631295374",
         "baseUrl": "https://comic-gardo.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comiplex",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comiplex",
+    "apk": "tachiyomi-ja.comiplex-v1.2.4.apk",
+    "lang": "ja",
+    "code": 4,
+    "version": "1.2.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Comiplex",
+        "lang": "ja",
+        "id": "1322991157305499061",
+        "baseUrl": "https://viewer.heros-web.com"
       }
     ]
   },
@@ -16556,6 +16624,23 @@
         "lang": "ja",
         "id": "5161357527629843269",
         "baseUrl": "https://shonenjumpplus.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Sunday Web Every",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.sundaywebevery",
+    "apk": "tachiyomi-ja.sundaywebevery-v1.2.4.apk",
+    "lang": "ja",
+    "code": 4,
+    "version": "1.2.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Sunday Web Every",
+        "lang": "ja",
+        "id": "8083066303045184316",
+        "baseUrl": "https://www.sunday-webry.com"
       }
     ]
   },
@@ -19113,17 +19198,17 @@
   {
     "name": "Tachiyomi: Liebe Schnee Hiver",
     "pkg": "eu.kanade.tachiyomi.extension.tr.liebeschneehiver",
-    "apk": "tachiyomi-tr.liebeschneehiver-v1.2.12.apk",
+    "apk": "tachiyomi-tr.liebeschneehiver-v1.2.13.apk",
     "lang": "tr",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
         "name": "Liebe Schnee Hiver",
         "lang": "tr",
         "id": "8910069790702403033",
-        "baseUrl": "https://www.liebeschneehiver.com"
+        "baseUrl": "https://lshistoria.com"
       }
     ]
   },
