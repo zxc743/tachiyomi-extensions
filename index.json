@@ -8161,7 +8161,7 @@
       {
         "name": "LHTranslation",
         "lang": "en",
-        "id": "8802607595629671202",
+        "id": "1210319763629695403",
         "baseUrl": "https://lhtranslation.net"
       }
     ]
@@ -11967,9 +11967,9 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Read Adult",
+        "name": "ReadAdult",
         "lang": "en",
-        "id": "5205674353370258219",
+        "id": "7901514283687191219",
         "baseUrl": "https://readadult.net"
       }
     ]
@@ -13908,7 +13908,7 @@
         "name": "WebToon69",
         "lang": "en",
         "id": "8376981214830921755",
-        "baseUrl": "https://webtoon69.com"
+        "baseUrl": "https://webtoon18.com"
       }
     ]
   },
@@ -13925,7 +13925,7 @@
         "name": "WebToonily",
         "lang": "en",
         "id": "4595999539879417257",
-        "baseUrl": "https://www.webtoonily.com"
+        "baseUrl": "https://webtoonily.com"
       }
     ]
   },
@@ -14985,7 +14985,7 @@
         "name": "YugenMangas",
         "lang": "es",
         "id": "989793618887201018",
-        "baseUrl": "https://yugenmangas.com/"
+        "baseUrl": "https://yugenmangas.com"
       }
     ]
   },
@@ -15519,17 +15519,17 @@
   {
     "name": "Tachiyomi: DoujinDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujindesu",
-    "apk": "tachiyomi-id.doujindesu-v1.2.1.apk",
+    "apk": "tachiyomi-id.doujindesu-v1.2.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "Doujindesu",
         "lang": "id",
         "id": "7704282043609669342",
-        "baseUrl": "https://doujindesu.id"
+        "baseUrl": "https://doujindesu.xxx"
       }
     ]
   },
@@ -18671,10 +18671,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.2.12.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.2.13.apk",
     "lang": "ru",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 1,
     "sources": [
       {
@@ -18892,10 +18892,10 @@
   {
     "name": "Tachiyomi: Mintmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.2.35.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.2.36.apk",
     "lang": "ru",
-    "code": 35,
-    "version": "1.2.35",
+    "code": 36,
+    "version": "1.2.36",
     "nsfw": 0,
     "sources": [
       {
@@ -18943,10 +18943,10 @@
   {
     "name": "Tachiyomi: Readmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.2.34.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.2.35.apk",
     "lang": "ru",
-    "code": 34,
-    "version": "1.2.34",
+    "code": 35,
+    "version": "1.2.35",
     "nsfw": 0,
     "sources": [
       {
@@ -19011,10 +19011,10 @@
   {
     "name": "Tachiyomi: Selfmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.2.11.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.2.12.apk",
     "lang": "ru",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "sources": [
       {
