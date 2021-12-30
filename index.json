@@ -1057,10 +1057,10 @@
   {
     "name": "Tachiyomi: Comico",
     "pkg": "eu.kanade.tachiyomi.extension.all.comico",
-    "apk": "tachiyomi-all.comico-v1.2.1.apk",
+    "apk": "tachiyomi-all.comico-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "sources": [
       {
@@ -1989,10 +1989,10 @@
   {
     "name": "Tachiyomi: Hitomi.la",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.2.12.apk",
+    "apk": "tachiyomi-all.hitomi-v1.2.13.apk",
     "lang": "all",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 1,
     "sources": [
       {
@@ -18705,10 +18705,10 @@
   {
     "name": "Tachiyomi: ComX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.2.12.apk",
+    "apk": "tachiyomi-ru.comx-v1.2.13.apk",
     "lang": "ru",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
