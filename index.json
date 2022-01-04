@@ -7999,10 +7999,10 @@
   {
     "name": "Tachiyomi: KSGroupScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ksgroupscans",
-    "apk": "tachiyomi-en.ksgroupscans-v1.2.6.apk",
+    "apk": "tachiyomi-en.ksgroupscans-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "sources": [
       {
@@ -19045,16 +19045,16 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.40.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.41.apk",
     "lang": "ru",
-    "code": 40,
-    "version": "1.2.40",
+    "code": 41,
+    "version": "1.2.41",
     "nsfw": 0,
     "sources": [
       {
         "name": "Remanga",
         "lang": "ru",
-        "id": "6959570459017940244",
+        "id": "8983242087533137528",
         "baseUrl": "https://api.remanga.org"
       }
     ]
