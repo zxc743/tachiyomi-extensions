@@ -5491,23 +5491,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Land Arabic",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalandarabic",
-    "apk": "tachiyomi-ar.mangalandarabic-v1.2.17.apk",
-    "lang": "ar",
-    "code": 17,
-    "version": "1.2.17",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Manga Land Arabic",
-        "lang": "ar",
-        "id": "8451792550593342911",
-        "baseUrl": "https://mangalandarabic.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
     "apk": "tachiyomi-ar.mangalek-v1.2.16.apk",
@@ -5759,6 +5742,23 @@
         "lang": "ar",
         "id": "335499577904379512",
         "baseUrl": "https://onma.me"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ozul Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.ozulscans",
+    "apk": "tachiyomi-ar.ozulscans-v1.2.11.apk",
+    "lang": "ar",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Ozul Scans",
+        "lang": "ar",
+        "id": "3453769904666687440",
+        "baseUrl": "https://ozulscans.com"
       }
     ]
   },
@@ -12759,17 +12759,17 @@
   {
     "name": "Tachiyomi: Realm Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.realmscans",
-    "apk": "tachiyomi-en.realmscans-v1.2.11.apk",
+    "apk": "tachiyomi-en.realmscans-v1.2.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "sources": [
       {
         "name": "Realm Scans",
         "lang": "en",
         "id": "8548620058491492757",
-        "baseUrl": "https://realmscans.xyz"
+        "baseUrl": "https://realmscans.com"
       }
     ]
   },
@@ -14850,10 +14850,10 @@
   {
     "name": "Tachiyomi: Phoenix Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.phoenixfansub",
-    "apk": "tachiyomi-es.phoenixfansub-v1.2.13.apk",
+    "apk": "tachiyomi-es.phoenixfansub-v1.2.14.apk",
     "lang": "es",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
@@ -19283,10 +19283,10 @@
   {
     "name": "Tachiyomi: Nekopost",
     "pkg": "eu.kanade.tachiyomi.extension.th.nekopost",
-    "apk": "tachiyomi-th.nekopost-v1.2.6.apk",
+    "apk": "tachiyomi-th.nekopost-v1.2.7.apk",
     "lang": "th",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1,
     "sources": [
       {
@@ -19351,10 +19351,10 @@
   {
     "name": "Tachiyomi: ArazNovel",
     "pkg": "eu.kanade.tachiyomi.extension.tr.araznovel",
-    "apk": "tachiyomi-tr.araznovel-v1.2.17.apk",
+    "apk": "tachiyomi-tr.araznovel-v1.2.18.apk",
     "lang": "tr",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 0,
     "sources": [
       {
@@ -19515,6 +19515,23 @@
         "lang": "tr",
         "id": "546920749196078093",
         "baseUrl": "https://hayalistic.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Jiangzaitoon",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.jiangzaitoon",
+    "apk": "tachiyomi-tr.jiangzaitoon-v1.2.15.apk",
+    "lang": "tr",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Jiangzaitoon",
+        "lang": "tr",
+        "id": "2533138448805911283",
+        "baseUrl": "https://jiangzaitoon.net"
       }
     ]
   },
