@@ -25,10 +25,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.2.16.apk",
+    "apk": "tachiyomi-all.batoto-v1.2.17.apk",
     "lang": "all",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 1,
     "sources": [
       {
@@ -4726,10 +4726,10 @@
   {
     "name": "Tachiyomi: Tappytoon",
     "pkg": "eu.kanade.tachiyomi.extension.all.tappytoon",
-    "apk": "tachiyomi-all.tappytoon-v1.2.3.apk",
+    "apk": "tachiyomi-all.tappytoon-v1.2.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1,
     "sources": [
       {
@@ -6445,10 +6445,10 @@
   {
     "name": "Tachiyomi: Comicastle",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicastle",
-    "apk": "tachiyomi-en.comicastle-v1.2.2.apk",
+    "apk": "tachiyomi-en.comicastle-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
@@ -7330,6 +7330,23 @@
         "lang": "en",
         "id": "7945033982379409892",
         "baseUrl": "https://hentaifox.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HentaiHere",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentaihere",
+    "apk": "tachiyomi-en.hentaihere-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "HentaiHere",
+        "lang": "en",
+        "id": "7266624490370375187",
+        "baseUrl": "https://hentaihere.com"
       }
     ]
   },
@@ -11178,10 +11195,10 @@
   {
     "name": "Tachiyomi: Midnight Mess Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.midnightmessscans",
-    "apk": "tachiyomi-en.midnightmessscans-v1.2.20.apk",
+    "apk": "tachiyomi-en.midnightmessscans-v1.2.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 1,
     "sources": [
       {
@@ -17107,10 +17124,10 @@
   {
     "name": "Tachiyomi: Argos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argosscan",
-    "apk": "tachiyomi-pt.argosscan-v1.2.18.apk",
+    "apk": "tachiyomi-pt.argosscan-v1.2.19.apk",
     "lang": "pt-BR",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0,
     "sources": [
       {
@@ -17617,10 +17634,10 @@
   {
     "name": "Tachiyomi: HipercooL",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hipercool",
-    "apk": "tachiyomi-pt.hipercool-v1.2.8.apk",
+    "apk": "tachiyomi-pt.hipercool-v1.2.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1,
     "sources": [
       {
@@ -18297,10 +18314,10 @@
   {
     "name": "Tachiyomi: Saikai Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
-    "apk": "tachiyomi-pt.saikaiscan-v1.2.7.apk",
+    "apk": "tachiyomi-pt.saikaiscan-v1.2.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
@@ -19028,16 +19045,16 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.39.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.40.apk",
     "lang": "ru",
-    "code": 39,
-    "version": "1.2.39",
+    "code": 40,
+    "version": "1.2.40",
     "nsfw": 0,
     "sources": [
       {
         "name": "Remanga",
         "lang": "ru",
-        "id": "8983242087533137528",
+        "id": "6959570459017940244",
         "baseUrl": "https://api.remanga.org"
       }
     ]
