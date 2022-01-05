@@ -6807,6 +6807,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: 8Muses Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.eightmusescomics",
+    "apk": "tachiyomi-en.eightmusescomics-v1.2.15.apk",
+    "lang": "en",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "8Muses Comics",
+        "lang": "en",
+        "id": "6960427747686613030",
+        "baseUrl": "https://8muses.love/"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Erofus",
     "pkg": "eu.kanade.tachiyomi.extension.en.erofus",
     "apk": "tachiyomi-en.erofus-v1.2.2.apk",
@@ -18042,10 +18059,10 @@
   {
     "name": "Tachiyomi: Mundo Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundowebtoon",
-    "apk": "tachiyomi-pt.mundowebtoon-v1.2.1.apk",
+    "apk": "tachiyomi-pt.mundowebtoon-v1.2.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
