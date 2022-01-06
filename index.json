@@ -5695,23 +5695,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ninjavi",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.ninjavi",
-    "apk": "tachiyomi-ar.ninjavi-v1.2.16.apk",
-    "lang": "ar",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Ninjavi",
-        "lang": "ar",
-        "id": "1843121369144304668",
-        "baseUrl": "https://ninjavi.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Novels Town",
     "pkg": "eu.kanade.tachiyomi.extension.ar.novelstown",
     "apk": "tachiyomi-ar.novelstown-v1.2.15.apk",
@@ -5793,23 +5776,6 @@
         "lang": "ar",
         "id": "3856301446711562004",
         "baseUrl": "https://re-manga.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Sani-Go",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.sanigo",
-    "apk": "tachiyomi-ar.sanigo-v1.2.16.apk",
-    "lang": "ar",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Sani-Go",
-        "lang": "ar",
-        "id": "4936157984198327645",
-        "baseUrl": "https://sani-go.net"
       }
     ]
   },
@@ -18059,10 +18025,10 @@
   {
     "name": "Tachiyomi: Mundo Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundowebtoon",
-    "apk": "tachiyomi-pt.mundowebtoon-v1.2.2.apk",
+    "apk": "tachiyomi-pt.mundowebtoon-v1.2.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "sources": [
       {
