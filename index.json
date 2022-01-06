@@ -6037,17 +6037,17 @@
   {
     "name": "Tachiyomi: Arang Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arangscans",
-    "apk": "tachiyomi-en.arangscans-v1.2.12.apk",
+    "apk": "tachiyomi-en.arangscans-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0,
     "sources": [
       {
         "name": "Arang Scans",
         "lang": "en",
-        "id": "1009658471753563437",
-        "baseUrl": "https://arangscans.com"
+        "id": "4754444529577237186",
+        "baseUrl": "https://arangscans.org"
       }
     ]
   },
@@ -10736,10 +10736,10 @@
   {
     "name": "Tachiyomi: Manhwa18",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwa18",
-    "apk": "tachiyomi-en.manhwa18-v1.2.6.apk",
+    "apk": "tachiyomi-en.manhwa18-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1,
     "sources": [
       {
@@ -16885,10 +16885,10 @@
   {
     "name": "Tachiyomi: Twi4",
     "pkg": "eu.kanade.tachiyomi.extension.ja.twi4",
-    "apk": "tachiyomi-ja.twi4-v1.2.1.apk",
+    "apk": "tachiyomi-ja.twi4-v1.2.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "sources": [
       {
