@@ -25,10 +25,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.2.17.apk",
+    "apk": "tachiyomi-all.batoto-v1.2.18.apk",
     "lang": "all",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 1,
     "sources": [
       {
@@ -13898,17 +13898,17 @@
   {
     "name": "Tachiyomi: WebToon69",
     "pkg": "eu.kanade.tachiyomi.extension.en.webtoon69",
-    "apk": "tachiyomi-en.webtoon69-v1.2.15.apk",
+    "apk": "tachiyomi-en.webtoon69-v1.2.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 1,
     "sources": [
       {
         "name": "WebToon69",
         "lang": "en",
         "id": "8376981214830921755",
-        "baseUrl": "https://webtoon18.com"
+        "baseUrl": "https://webtoon69.com"
       }
     ]
   },
@@ -16975,13 +16975,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki145.net"
+        "baseUrl": "https://manatoki146.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki145.com"
+        "baseUrl": "https://newtoki146.com"
       }
     ]
   },
