@@ -25,10 +25,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.2.19.apk",
+    "apk": "tachiyomi-all.batoto-v1.2.20.apk",
     "lang": "all",
-    "code": 19,
-    "version": "1.2.19",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 1,
     "sources": [
       {
@@ -18333,10 +18333,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libhentai",
-    "apk": "tachiyomi-ru.libhentai-v1.2.1.apk",
+    "apk": "tachiyomi-ru.libhentai-v1.2.2.apk",
     "lang": "ru",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "sources": [
       {
@@ -18350,10 +18350,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.58.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.59.apk",
     "lang": "ru",
-    "code": 58,
-    "version": "1.2.58",
+    "code": 59,
+    "version": "1.2.59",
     "nsfw": 0,
     "sources": [
       {
@@ -18554,10 +18554,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.41.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.42.apk",
     "lang": "ru",
-    "code": 41,
-    "version": "1.2.41",
+    "code": 42,
+    "version": "1.2.42",
     "nsfw": 0,
     "sources": [
       {
