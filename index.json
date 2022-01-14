@@ -15521,10 +15521,10 @@
   {
     "name": "Tachiyomi: ManhuaID",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhuaid",
-    "apk": "tachiyomi-id.manhuaid-v1.2.7.apk",
+    "apk": "tachiyomi-id.manhuaid-v1.2.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "sources": [
       {
@@ -16501,13 +16501,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki146.net"
+        "baseUrl": "https://manatoki147.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki146.com"
+        "baseUrl": "https://newtoki147.com"
       }
     ]
   },
