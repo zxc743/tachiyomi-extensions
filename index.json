@@ -2581,10 +2581,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.151.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.152.apk",
     "lang": "all",
-    "code": 151,
-    "version": "1.2.151",
+    "code": 152,
+    "version": "1.2.152",
     "nsfw": 1,
     "sources": [
       {
@@ -7185,10 +7185,10 @@
   {
     "name": "Tachiyomi: Infernal Void Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.2.14.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.2.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "sources": [
       {
@@ -18248,10 +18248,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.2.13.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.2.14.apk",
     "lang": "ru",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 1,
     "sources": [
       {
@@ -18435,10 +18435,10 @@
   {
     "name": "Tachiyomi: Mangaonlinebiz",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangaonlinebiz",
-    "apk": "tachiyomi-ru.mangaonlinebiz-v1.2.9.apk",
+    "apk": "tachiyomi-ru.mangaonlinebiz-v1.2.10.apk",
     "lang": "ru",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0,
     "sources": [
       {
@@ -18486,10 +18486,10 @@
   {
     "name": "Tachiyomi: Mintmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.2.36.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.2.37.apk",
     "lang": "ru",
-    "code": 36,
-    "version": "1.2.36",
+    "code": 37,
+    "version": "1.2.37",
     "nsfw": 0,
     "sources": [
       {
@@ -18537,10 +18537,10 @@
   {
     "name": "Tachiyomi: Readmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.2.35.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.2.36.apk",
     "lang": "ru",
-    "code": 35,
-    "version": "1.2.35",
+    "code": 36,
+    "version": "1.2.36",
     "nsfw": 0,
     "sources": [
       {
@@ -18605,10 +18605,10 @@
   {
     "name": "Tachiyomi: Selfmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.2.13.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.2.14.apk",
     "lang": "ru",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "sources": [
       {
@@ -19784,10 +19784,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.25.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.26.apk",
     "lang": "zh",
-    "code": 25,
-    "version": "1.2.25",
+    "code": 26,
+    "version": "1.2.26",
     "nsfw": 0,
     "sources": [
       {
