@@ -18401,10 +18401,10 @@
   {
     "name": "Tachiyomi: MangaClub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangaclub",
-    "apk": "tachiyomi-ru.mangaclub-v1.2.3.apk",
+    "apk": "tachiyomi-ru.mangaclub-v1.2.4.apk",
     "lang": "ru",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
@@ -18503,10 +18503,10 @@
   {
     "name": "Tachiyomi: Newbie",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.2.3.apk",
+    "apk": "tachiyomi-ru.newbie-v1.2.4.apk",
     "lang": "ru",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "sources": [
       {
