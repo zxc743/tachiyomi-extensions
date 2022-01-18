@@ -4740,6 +4740,29 @@
     ]
   },
   {
+    "name": "Tachiyomi: YugenMangas",
+    "pkg": "eu.kanade.tachiyomi.extension.all.yugenmangas",
+    "apk": "tachiyomi-all.yugenmangas-v1.2.15.apk",
+    "lang": "all",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "YugenMangas",
+        "lang": "es",
+        "id": "989793618887201018",
+        "baseUrl": "https://yugenmangas.com"
+      },
+      {
+        "name": "YugenMangas",
+        "lang": "pt-BR",
+        "id": "140083806094083708",
+        "baseUrl": "https://yugenmangas.com.br"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AkuManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.akumanga",
     "apk": "tachiyomi-ar.akumanga-v1.2.16.apk",
@@ -14490,23 +14513,6 @@
         "lang": "es",
         "id": "4952451593357491304",
         "baseUrl": "https://vermangasporno.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: YugenMangas",
-    "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.2.18.apk",
-    "lang": "es",
-    "code": 18,
-    "version": "1.2.18",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "YugenMangas",
-        "lang": "es",
-        "id": "989793618887201018",
-        "baseUrl": "https://yugenmangas.com"
       }
     ]
   },
