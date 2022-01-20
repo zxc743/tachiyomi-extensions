@@ -15777,10 +15777,10 @@
   {
     "name": "Tachiyomi: World Romance Translation",
     "pkg": "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
-    "apk": "tachiyomi-id.worldromancetranslation-v1.2.17.apk",
+    "apk": "tachiyomi-id.worldromancetranslation-v1.2.18.apk",
     "lang": "id",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 0,
     "sources": [
       {
@@ -16853,23 +16853,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Cervo Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.cervoscanlator",
-    "apk": "tachiyomi-pt.cervoscanlator-v1.2.19.apk",
-    "lang": "pt-BR",
-    "code": 19,
-    "version": "1.2.19",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Cervo Scanlator",
-        "lang": "pt-BR",
-        "id": "3211484278530554492",
-        "baseUrl": "https://cervoscan.xyz"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Cronos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cronosscan",
     "apk": "tachiyomi-pt.cronosscan-v1.2.16.apk",
@@ -17023,23 +17006,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Geass Hentai",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.geasshentai",
-    "apk": "tachiyomi-pt.geasshentai-v1.2.15.apk",
-    "lang": "pt-BR",
-    "code": 15,
-    "version": "1.2.15",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Geass Hentai",
-        "lang": "pt-BR",
-        "id": "6137358636151523543",
-        "baseUrl": "https://geassscan.xyz"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Okamishi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.geassscanlator",
     "apk": "tachiyomi-pt.geassscanlator-v1.2.20.apk",
@@ -17074,23 +17040,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Glory Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.gloryscans",
-    "apk": "tachiyomi-pt.gloryscans-v1.2.17.apk",
-    "lang": "pt-BR",
-    "code": 17,
-    "version": "1.2.17",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Glory Scans",
-        "lang": "pt-BR",
-        "id": "5555732038785652921",
-        "baseUrl": "https://gloryscan.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Golden Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
     "apk": "tachiyomi-pt.goldenmangas-v1.2.13.apk",
@@ -17104,23 +17053,6 @@
         "lang": "pt-BR",
         "id": "6858719406079923084",
         "baseUrl": "https://goldenmanga.top"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hakai Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.hakaiscan",
-    "apk": "tachiyomi-pt.hakaiscan-v1.2.13.apk",
-    "lang": "pt-BR",
-    "code": 13,
-    "version": "1.2.13",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Hakai Scan",
-        "lang": "pt-BR",
-        "id": "5666678207150020968",
-        "baseUrl": "http://hakaiscan.xyz"
       }
     ]
   },
@@ -17499,23 +17431,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Moon Witch In Love",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.moonwitchinlove",
-    "apk": "tachiyomi-pt.moonwitchinlove-v1.2.16.apk",
-    "lang": "pt-BR",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Moon Witch In Love",
-        "lang": "pt-BR",
-        "id": "3135090895340447301",
-        "baseUrl": "https://moonwitchinlove.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Muito Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.muitomanga",
     "apk": "tachiyomi-pt.muitomanga-v1.2.5.apk",
@@ -17614,23 +17529,6 @@
         "lang": "pt-BR",
         "id": "1784135076119945250",
         "baseUrl": "https://neoxscans.net"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: NeoXXX Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.neoxxxscans",
-    "apk": "tachiyomi-pt.neoxxxscans-v1.2.18.apk",
-    "lang": "pt-BR",
-    "code": 18,
-    "version": "1.2.18",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "NeoXXX Scans",
-        "lang": "pt-BR",
-        "id": "8768628699470468299",
-        "baseUrl": "https://xxx.neoxscans.net"
       }
     ]
   },
@@ -17805,23 +17703,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Red Ribbon Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.redribbonscanlator",
-    "apk": "tachiyomi-pt.redribbonscanlator-v1.2.16.apk",
-    "lang": "pt-BR",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Red Ribbon Scanlator",
-        "lang": "pt-BR",
-        "id": "2773028517724322448",
-        "baseUrl": "https://redribbon.site"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Remangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.remangas",
     "apk": "tachiyomi-pt.remangas-v1.2.8.apk",
@@ -17920,23 +17801,6 @@
         "lang": "pt-BR",
         "id": "4570883624419126858",
         "baseUrl": "https://silencescan.com.br"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Sindria Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.sindriascanlator",
-    "apk": "tachiyomi-pt.sindriascanlator-v1.2.15.apk",
-    "lang": "pt-BR",
-    "code": 15,
-    "version": "1.2.15",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Sindria Scanlator",
-        "lang": "pt-BR",
-        "id": "4936352339770718094",
-        "baseUrl": "https://sindriascanlator.com"
       }
     ]
   },
@@ -18572,10 +18436,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.42.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.43.apk",
     "lang": "ru",
-    "code": 42,
-    "version": "1.2.42",
+    "code": 43,
+    "version": "1.2.43",
     "nsfw": 0,
     "sources": [
       {
@@ -19541,10 +19405,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.2.9.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.2.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 1,
     "sources": [
       {
