@@ -27,10 +27,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.2.20.apk",
+    "apk": "tachiyomi-all.batoto-v1.2.21.apk",
     "lang": "all",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -307,13 +307,13 @@
       },
       {
         "name": "Bato.to",
-        "lang": "zh-rHK",
+        "lang": "zh-Hans",
         "id": "2818874445640189582",
         "baseUrl": "https://bato.to"
       },
       {
         "name": "Bato.to",
-        "lang": "zh-rTW",
+        "lang": "zh-Hant",
         "id": "38886079663327225",
         "baseUrl": "https://bato.to"
       },
@@ -3005,10 +3005,10 @@
   {
     "name": "Tachiyomi: MangaPark v3",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.2.13.apk",
+    "apk": "tachiyomi-all.mangapark-v1.2.14.apk",
     "lang": "all",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3279,13 +3279,13 @@
       },
       {
         "name": "MangaPark v3",
-        "lang": "zh-rHK",
+        "lang": "zh-Hans",
         "id": "6306867705763005424",
         "baseUrl": "https://v35.mangapark.net"
       },
       {
         "name": "MangaPark v3",
-        "lang": "zh-rTW",
+        "lang": "zh-Hant",
         "id": "4563855043528673539",
         "baseUrl": "https://v35.mangapark.net"
       },
@@ -4065,10 +4065,10 @@
   {
     "name": "Tachiyomi: nHentai.com (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentaicom",
-    "apk": "tachiyomi-all.nhentaicom-v1.2.2.apk",
+    "apk": "tachiyomi-all.nhentaicom-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4111,7 +4111,7 @@
       },
       {
         "name": "nHentai.com (unoriginal)",
-        "lang": "cz",
+        "lang": "cs",
         "id": "1144495813995437124",
         "baseUrl": "https://nhentai.com"
       },
@@ -4496,10 +4496,10 @@
   {
     "name": "Tachiyomi: Toomics",
     "pkg": "eu.kanade.tachiyomi.extension.all.toomics",
-    "apk": "tachiyomi-all.toomics-v1.2.6.apk",
+    "apk": "tachiyomi-all.toomics-v1.2.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4511,20 +4511,20 @@
         "baseUrl": "https://global.toomics.com"
       },
       {
-        "name": "Toomics (Only free chapters) (简体)",
-        "lang": "zh",
+        "name": "Toomics (Only free chapters)",
+        "lang": "zh-Hans",
         "id": "2191753978421234924",
         "baseUrl": "https://global.toomics.com"
       },
       {
-        "name": "Toomics (Only free chapters) (繁體)",
-        "lang": "zh",
+        "name": "Toomics (Only free chapters)",
+        "lang": "zh-Hant",
         "id": "371640888113435809",
         "baseUrl": "https://global.toomics.com"
       },
       {
-        "name": "Toomics (Only free chapters) (LA)",
-        "lang": "es",
+        "name": "Toomics (Only free chapters)",
+        "lang": "es-419",
         "id": "7362369816539610504",
         "baseUrl": "https://global.toomics.com"
       },
@@ -4637,10 +4637,10 @@
   {
     "name": "Tachiyomi: Webtoons.com Translations",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoonstranslate",
-    "apk": "tachiyomi-all.webtoonstranslate-v1.2.3.apk",
+    "apk": "tachiyomi-all.webtoonstranslate-v1.2.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4653,13 +4653,13 @@
       },
       {
         "name": "Webtoons.com Translations",
-        "lang": "zh-hans",
+        "lang": "zh-Hans",
         "id": "5196522547754842244",
         "baseUrl": "https://translate.webtoons.com"
       },
       {
         "name": "Webtoons.com Translations",
-        "lang": "zh-hant",
+        "lang": "zh-Hant",
         "id": "1016181401146312893",
         "baseUrl": "https://translate.webtoons.com"
       },
