@@ -27,13 +27,13 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.2.21.apk",
+    "apk": "tachiyomi-all.batoto-v1.2.22.apk",
     "lang": "all",
-    "code": 21,
-    "version": "1.2.21",
+    "code": 22,
+    "version": "1.2.22",
     "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasReadme": 1,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "Bato.to",
@@ -1053,13 +1053,13 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.2.10.apk",
+    "apk": "tachiyomi-all.cubari-v1.2.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasReadme": 1,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "Cubari",
@@ -2239,13 +2239,13 @@
   {
     "name": "Tachiyomi: Kavita",
     "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
-    "apk": "tachiyomi-all.kavita-v1.2.1.apk",
+    "apk": "tachiyomi-all.kavita-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasReadme": 1,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "Kavita (1)",
@@ -2301,13 +2301,13 @@
   {
     "name": "Tachiyomi: LANraragi",
     "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.2.8.apk",
+    "apk": "tachiyomi-all.lanraragi-v1.2.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasReadme": 1,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "LANraragi",
@@ -3509,12 +3509,12 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.2.27.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.2.28.apk",
     "lang": "all",
-    "code": 27,
-    "version": "1.2.27",
+    "code": 28,
+    "version": "1.2.28",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7442,10 +7442,10 @@
   {
     "name": "Tachiyomi: Hscans",
     "pkg": "eu.kanade.tachiyomi.extension.en.hscans",
-    "apk": "tachiyomi-en.hscans-v1.2.16.apk",
+    "apk": "tachiyomi-en.hscans-v1.2.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7537,10 +7537,10 @@
   {
     "name": "Tachiyomi: Imperfect Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.imperfectcomics",
-    "apk": "tachiyomi-en.imperfectcomics-v1.2.18.apk",
+    "apk": "tachiyomi-en.imperfectcomics-v1.2.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17966,13 +17966,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki148.net"
+        "baseUrl": "https://manatoki149.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki148.com"
+        "baseUrl": "https://newtoki149.com"
       }
     ]
   },
@@ -19936,10 +19936,10 @@
   {
     "name": "Tachiyomi: MangaClub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangaclub",
-    "apk": "tachiyomi-ru.mangaclub-v1.2.7.apk",
+    "apk": "tachiyomi-ru.mangaclub-v1.2.8.apk",
     "lang": "ru",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21399,10 +21399,10 @@
   {
     "name": "Tachiyomi: Baozimanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.2.2.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.2.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
