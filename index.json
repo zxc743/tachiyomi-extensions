@@ -6509,25 +6509,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Comichub",
-    "pkg": "eu.kanade.tachiyomi.extension.en.comichub",
-    "apk": "tachiyomi-en.comichub-v1.2.15.apk",
-    "lang": "en",
-    "code": 15,
-    "version": "1.2.15",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Comichub",
-        "lang": "en",
-        "id": "8059672287469944796",
-        "baseUrl": "https://comichub.net"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ComicKiba",
     "pkg": "eu.kanade.tachiyomi.extension.en.comickiba",
     "apk": "tachiyomi-en.comickiba-v1.2.16.apk",
