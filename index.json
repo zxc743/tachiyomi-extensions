@@ -2122,10 +2122,10 @@
   {
     "name": "Tachiyomi: IMHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.imhentai",
-    "apk": "tachiyomi-all.imhentai-v1.2.3.apk",
+    "apk": "tachiyomi-all.imhentai-v1.2.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5675,10 +5675,10 @@
   {
     "name": "Tachiyomi: YonaBar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.yonabar",
-    "apk": "tachiyomi-ar.yonabar-v1.2.15.apk",
+    "apk": "tachiyomi-ar.yonabar-v1.2.16.apk",
     "lang": "ar",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5687,7 +5687,7 @@
         "name": "YonaBar",
         "lang": "ar",
         "id": "1677221088317532348",
-        "baseUrl": "https://yonabar.com"
+        "baseUrl": "https://yonabar.net"
       }
     ]
   },
@@ -10234,25 +10234,6 @@
         "lang": "en",
         "id": "8448310129093543312",
         "baseUrl": "https://mangapill.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaPL",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangapl",
-    "apk": "tachiyomi-en.mangapl-v1.2.16.apk",
-    "lang": "en",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaPL",
-        "lang": "en",
-        "id": "6744809947193901777",
-        "baseUrl": "https://mangapl.com"
       }
     ]
   },
@@ -18745,10 +18726,10 @@
   {
     "name": "Tachiyomi: Twi4",
     "pkg": "eu.kanade.tachiyomi.extension.ja.twi4",
-    "apk": "tachiyomi-ja.twi4-v1.2.2.apk",
+    "apk": "tachiyomi-ja.twi4-v1.2.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20226,10 +20207,10 @@
   {
     "name": "Tachiyomi: Remangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.remangas",
-    "apk": "tachiyomi-pt.remangas-v1.2.8.apk",
+    "apk": "tachiyomi-pt.remangas-v1.2.15.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20237,8 +20218,8 @@
       {
         "name": "Remangas",
         "lang": "pt-BR",
-        "id": "7462657023971681136",
-        "baseUrl": "https://remangas.top"
+        "id": "9091333294250450941",
+        "baseUrl": "https://remangas.net"
       }
     ]
   },
