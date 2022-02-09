@@ -15085,10 +15085,10 @@
   {
     "name": "Tachiyomi: Tsumino",
     "pkg": "eu.kanade.tachiyomi.extension.en.tsumino",
-    "apk": "tachiyomi-en.tsumino-v1.2.5.apk",
+    "apk": "tachiyomi-en.tsumino-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22409,6 +22409,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhuaRock",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
+    "apk": "tachiyomi-vi.manhuarock-v1.2.7.apk",
+    "lang": "vi",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhuaRock",
+        "lang": "vi",
+        "id": "1351694623483170832",
+        "baseUrl": "https://manhuarock.net"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MeDocTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.medoctruyentranh",
     "apk": "tachiyomi-vi.medoctruyentranh-v1.2.6.apk",
@@ -22468,10 +22487,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.2.6.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.2.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22645,10 +22664,10 @@
   {
     "name": "Tachiyomi: CopyManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-    "apk": "tachiyomi-zh.copymanga-v1.2.23.apk",
+    "apk": "tachiyomi-zh.copymanga-v1.2.24.apk",
     "lang": "zh",
-    "code": 23,
-    "version": "1.2.23",
+    "code": 24,
+    "version": "1.2.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
