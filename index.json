@@ -2521,10 +2521,10 @@
   {
     "name": "Tachiyomi: Magical Translators",
     "pkg": "eu.kanade.tachiyomi.extension.all.magicaltranslators",
-    "apk": "tachiyomi-all.magicaltranslators-v1.2.3.apk",
+    "apk": "tachiyomi-all.magicaltranslators-v1.2.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2533,6 +2533,12 @@
         "name": "Magical Translators",
         "lang": "en",
         "id": "4033172788130537982",
+        "baseUrl": "https://mahoushoujobu.com"
+      },
+      {
+        "name": "Magical Translators",
+        "lang": "es",
+        "id": "8666919453546333116",
         "baseUrl": "https://mahoushoujobu.com"
       },
       {
@@ -22683,10 +22689,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.26.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.27.apk",
     "lang": "zh",
-    "code": 26,
-    "version": "1.2.26",
+    "code": 27,
+    "version": "1.2.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
