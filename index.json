@@ -17945,25 +17945,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ManhwaID",
-    "pkg": "eu.kanade.tachiyomi.extension.id.manhwaid",
-    "apk": "tachiyomi-id.manhwaid-v1.2.15.apk",
-    "lang": "id",
-    "code": 15,
-    "version": "1.2.15",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhwaID",
-        "lang": "id",
-        "id": "4936118780439985359",
-        "baseUrl": "https://manhwaid.org"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MasterKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.masterkomik",
     "apk": "tachiyomi-id.masterkomik-v1.2.14.apk",
@@ -21258,10 +21239,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.45.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.46.apk",
     "lang": "ru",
-    "code": 45,
-    "version": "1.2.45",
+    "code": 46,
+    "version": "1.2.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22803,10 +22784,10 @@
   {
     "name": "Tachiyomi: Jinmantiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.2.19.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.2.20.apk",
     "lang": "zh",
-    "code": 19,
-    "version": "1.2.19",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
