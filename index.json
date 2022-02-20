@@ -7510,10 +7510,10 @@
   {
     "name": "Tachiyomi: HentaiHere",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaihere",
-    "apk": "tachiyomi-en.hentaihere-v1.2.1.apk",
+    "apk": "tachiyomi-en.hentaihere-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16421,10 +16421,10 @@
   {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
-    "apk": "tachiyomi-es.manhwalatino-v1.2.15.apk",
+    "apk": "tachiyomi-es.manhwalatino-v1.2.16.apk",
     "lang": "es",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16433,7 +16433,26 @@
         "name": "Manhwa-Latino",
         "lang": "es",
         "id": "3548601371328353875",
-        "baseUrl": "https://manhwa-latino.com"
+        "baseUrl": "https://manhwa-es.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhwas.net",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwasnet",
+    "apk": "tachiyomi-es.manhwasnet-v1.2.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhwas.net",
+        "lang": "es",
+        "id": "1326771034671033762",
+        "baseUrl": "https://manhwas.net"
       }
     ]
   },
@@ -22145,25 +22164,6 @@
         "lang": "tr",
         "id": "7110025728969951060",
         "baseUrl": "https://www.mangaship.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaStein",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangastein",
-    "apk": "tachiyomi-tr.mangastein-v1.2.16.apk",
-    "lang": "tr",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaStein",
-        "lang": "tr",
-        "id": "3134233049889643577",
-        "baseUrl": "https://mangastein.com"
       }
     ]
   },
