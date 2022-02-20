@@ -15868,6 +15868,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: AiYuManga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.aiyumanga",
+    "apk": "tachiyomi-es.aiyumanga-v1.2.15.apk",
+    "lang": "es",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AiYuManga",
+        "lang": "es",
+        "id": "4037099760593306450",
+        "baseUrl": "https://aiyumangascanlation.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ApollComics",
     "pkg": "eu.kanade.tachiyomi.extension.es.apollcomics",
     "apk": "tachiyomi-es.apollcomics-v1.2.16.apk",
@@ -16472,6 +16491,25 @@
         "lang": "es",
         "id": "5810843478993960074",
         "baseUrl": "https://meraki801.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MonarcaManga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.monarcamanga",
+    "apk": "tachiyomi-es.monarcamanga-v1.2.15.apk",
+    "lang": "es",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MonarcaManga",
+        "lang": "es",
+        "id": "2562646828412798234",
+        "baseUrl": "https://monarcamanga.com"
       }
     ]
   },
@@ -19660,6 +19698,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Goof Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.gooffansub",
+    "apk": "tachiyomi-pt.gooffansub-v1.2.15.apk",
+    "lang": "pt-BR",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Goof Fansub",
+        "lang": "pt-BR",
+        "id": "5760104820645758917",
+        "baseUrl": "https://gooffansub.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai Season",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hentaiseason",
     "apk": "tachiyomi-pt.hentaiseason-v1.2.3.apk",
@@ -20340,6 +20397,25 @@
         "lang": "pt-BR",
         "id": "8533256843165928062",
         "baseUrl": "https://owscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pirulito Rosa",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.pirulitorosa",
+    "apk": "tachiyomi-pt.pirulitorosa-v1.2.15.apk",
+    "lang": "pt-BR",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pirulito Rosa",
+        "lang": "pt-BR",
+        "id": "580774737017310111",
+        "baseUrl": "https://pirulitorosa.site"
       }
     ]
   },
@@ -21750,6 +21826,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: FaeStorm",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.faestorm",
+    "apk": "tachiyomi-tr.faestorm-v1.2.15.apk",
+    "lang": "tr",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FaeStorm",
+        "lang": "tr",
+        "id": "6697195959104054185",
+        "baseUrl": "https://faestormmanga.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Gecenin Lordu",
     "pkg": "eu.kanade.tachiyomi.extension.tr.geceninlordu",
     "apk": "tachiyomi-tr.geceninlordu-v1.2.12.apk",
@@ -21784,6 +21879,25 @@
         "lang": "tr",
         "id": "3092057739527533146",
         "baseUrl": "https://guncelmanga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hattori Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.hattorimanga",
+    "apk": "tachiyomi-tr.hattorimanga-v1.2.15.apk",
+    "lang": "tr",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hattori Manga",
+        "lang": "tr",
+        "id": "1800748090440992820",
+        "baseUrl": "https://hattorimanga.com"
       }
     ]
   },
@@ -21864,6 +21978,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangacim",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangacim",
+    "apk": "tachiyomi-tr.mangacim-v1.2.15.apk",
+    "lang": "tr",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangacim",
+        "lang": "tr",
+        "id": "2899568032823240582",
+        "baseUrl": "https://www.mangacim.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaDenizi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangadenizi",
     "apk": "tachiyomi-tr.mangadenizi-v1.2.4.apk",
@@ -21936,6 +22069,44 @@
         "lang": "tr",
         "id": "9070098188425137894",
         "baseUrl": "http://mangahanta.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Keyfi",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangakeyfi",
+    "apk": "tachiyomi-tr.mangakeyfi-v1.2.15.apk",
+    "lang": "tr",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Keyfi",
+        "lang": "tr",
+        "id": "3908248304003777497",
+        "baseUrl": "https://mangakeyfi.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Şehri",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangasehri",
+    "apk": "tachiyomi-tr.mangasehri-v1.2.15.apk",
+    "lang": "tr",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Şehri",
+        "lang": "tr",
+        "id": "765479493052253014",
+        "baseUrl": "https://mangasehri.com"
       }
     ]
   },
@@ -22297,6 +22468,44 @@
         "lang": "tr",
         "id": "8902732421830627437",
         "baseUrl": "https://webtoonhatti.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Webtoon TR",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.webtoontr",
+    "apk": "tachiyomi-tr.webtoontr-v1.2.15.apk",
+    "lang": "tr",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Webtoon TR",
+        "lang": "tr",
+        "id": "2325858799672782297",
+        "baseUrl": "https://webtoon-tr.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yetişkin Rüya Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.yetiskinruyamanga",
+    "apk": "tachiyomi-tr.yetiskinruyamanga-v1.2.15.apk",
+    "lang": "tr",
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yetişkin Rüya Manga",
+        "lang": "tr",
+        "id": "7083845009873813929",
+        "baseUrl": "https://yetiskin.ruyamanga.com"
       }
     ]
   },
