@@ -6042,10 +6042,10 @@
   {
     "name": "Tachiyomi: aurora",
     "pkg": "eu.kanade.tachiyomi.extension.en.aurora",
-    "apk": "tachiyomi-en.aurora-v1.2.2.apk",
+    "apk": "tachiyomi-en.aurora-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
