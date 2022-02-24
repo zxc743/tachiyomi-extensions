@@ -22510,25 +22510,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: HocVienTruyenTranh",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.academyvn",
-    "apk": "tachiyomi-vi.academyvn-v1.2.8.apk",
-    "lang": "vi",
-    "code": 8,
-    "version": "1.2.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "HocVienTruyenTranh",
-        "lang": "vi",
-        "id": "8709564611486410096",
-        "baseUrl": "https://hocvientruyentranh.net"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: BlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
     "apk": "tachiyomi-vi.blogtruyen-v1.2.9.apk",
