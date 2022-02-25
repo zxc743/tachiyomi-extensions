@@ -5130,10 +5130,10 @@
   {
     "name": "Tachiyomi: GMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.ar.gmanga",
-    "apk": "tachiyomi-ar.gmanga-v1.2.9.apk",
+    "apk": "tachiyomi-ar.gmanga-v1.2.10.apk",
     "lang": "ar",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5142,7 +5142,7 @@
         "name": "GMANGA",
         "lang": "ar",
         "id": "1409224500478594796",
-        "baseUrl": "https://gmanga.me"
+        "baseUrl": "https://gmanga.org"
       }
     ]
   },
@@ -22974,10 +22974,10 @@
   {
     "name": "Tachiyomi: Jinmantiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.2.20.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.2.21.apk",
     "lang": "zh",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
