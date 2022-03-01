@@ -19596,25 +19596,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Fleur Blanche",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
-    "apk": "tachiyomi-pt.fleurblanche-v1.2.17.apk",
-    "lang": "pt-BR",
-    "code": 17,
-    "version": "1.2.17",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Fleur Blanche",
-        "lang": "pt-BR",
-        "id": "2748000026130339026",
-        "baseUrl": "https://fleurscan.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Fox White",
     "pkg": "eu.kanade.tachiyomi.extension.pt.foxwhite",
     "apk": "tachiyomi-pt.foxwhite-v1.2.16.apk",
