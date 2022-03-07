@@ -4624,10 +4624,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.2.33.apk",
+    "apk": "tachiyomi-all.webtoons-v1.2.34.apk",
     "lang": "all",
-    "code": 33,
-    "version": "1.2.33",
+    "code": 34,
+    "version": "1.2.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4664,8 +4664,14 @@
       },
       {
         "name": "Webtoons.com",
-        "lang": "zh",
+        "lang": "zh-Hant",
         "id": "2959982438613576472",
+        "baseUrl": "https://www.webtoons.com"
+      },
+      {
+        "name": "Webtoons.com",
+        "lang": "de",
+        "id": "1486822823904297379",
         "baseUrl": "https://www.webtoons.com"
       }
     ]
@@ -10391,10 +10397,10 @@
   {
     "name": "Tachiyomi: manga-raw.club",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.2.6.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21422,10 +21428,10 @@
   {
     "name": "Tachiyomi: WayManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.waymanga",
-    "apk": "tachiyomi-ru.waymanga-v1.2.3.apk",
+    "apk": "tachiyomi-ru.waymanga-v1.2.4.apk",
     "lang": "ru",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
