@@ -21295,10 +21295,10 @@
   {
     "name": "Tachiyomi: NewManga(Newbie)",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.2.7.apk",
+    "apk": "tachiyomi-ru.newbie-v1.2.8.apk",
     "lang": "ru",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
