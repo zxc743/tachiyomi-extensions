@@ -8305,6 +8305,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Koushoku",
+    "pkg": "eu.kanade.tachiyomi.extension.en.koushoku",
+    "apk": "tachiyomi-en.koushoku-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Koushoku",
+        "lang": "en",
+        "id": "3888499300158886492",
+        "baseUrl": "https://koushoku.org"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KSGroupScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ksgroupscans",
     "apk": "tachiyomi-en.ksgroupscans-v1.2.7.apk",
