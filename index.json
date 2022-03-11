@@ -18782,25 +18782,25 @@
   {
     "name": "Tachiyomi: MangaRaw",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangaraw",
-    "apk": "tachiyomi-ja.mangaraw-v1.2.4.apk",
+    "apk": "tachiyomi-ja.mangaraw-v1.2.5.apk",
     "lang": "ja",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga1000",
+        "name": "Comick",
         "lang": "ja",
-        "id": "4264835336591581099",
-        "baseUrl": "https://manga1000.com"
+        "id": "7016065305092188139",
+        "baseUrl": "https://comick.top"
       },
       {
-        "name": "Manga1001",
+        "name": "MangaPro",
         "lang": "ja",
-        "id": "4239270419267556174",
-        "baseUrl": "https://manga1001.com"
+        "id": "629737513778186847",
+        "baseUrl": "https://mangapro.top"
       }
     ]
   },
