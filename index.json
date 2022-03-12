@@ -4452,10 +4452,10 @@
   {
     "name": "Tachiyomi: Tappytoon",
     "pkg": "eu.kanade.tachiyomi.extension.all.tappytoon",
-    "apk": "tachiyomi-all.tappytoon-v1.2.5.apk",
+    "apk": "tachiyomi-all.tappytoon-v1.2.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5959,25 +5959,6 @@
         "lang": "en",
         "id": "626267698662819838",
         "baseUrl": "https://aquamanga.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Arang Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.arangscans",
-    "apk": "tachiyomi-en.arangscans-v1.2.13.apk",
-    "lang": "en",
-    "code": 13,
-    "version": "1.2.13",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Arang Scans",
-        "lang": "en",
-        "id": "4754444529577237186",
-        "baseUrl": "https://arangscans.org"
       }
     ]
   },
