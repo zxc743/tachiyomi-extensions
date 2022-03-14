@@ -991,10 +991,10 @@
   {
     "name": "Tachiyomi: Comico",
     "pkg": "eu.kanade.tachiyomi.extension.all.comico",
-    "apk": "tachiyomi-all.comico-v1.2.2.apk",
+    "apk": "tachiyomi-all.comico-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7889,10 +7889,10 @@
   {
     "name": "Tachiyomi: Imperfect Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.imperfectcomics",
-    "apk": "tachiyomi-en.imperfectcomics-v1.2.20.apk",
+    "apk": "tachiyomi-en.imperfectcomics-v1.2.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8288,10 +8288,10 @@
   {
     "name": "Tachiyomi: Koushoku",
     "pkg": "eu.kanade.tachiyomi.extension.en.koushoku",
-    "apk": "tachiyomi-en.koushoku-v1.2.1.apk",
+    "apk": "tachiyomi-en.koushoku-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22587,10 +22587,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.2.10.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.2.11.apk",
     "lang": "vi",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22599,7 +22599,7 @@
         "name": "HentaiVN",
         "lang": "vi",
         "id": "6560768551969686205",
-        "baseUrl": "https://hentaivn.tv"
+        "baseUrl": "https://hentaivn.moe"
       }
     ]
   },
