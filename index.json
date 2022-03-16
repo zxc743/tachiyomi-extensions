@@ -21067,10 +21067,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libhentai",
-    "apk": "tachiyomi-ru.libhentai-v1.2.8.apk",
+    "apk": "tachiyomi-ru.libhentai-v1.2.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21086,10 +21086,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.64.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.65.apk",
     "lang": "ru",
-    "code": 64,
-    "version": "1.2.64",
+    "code": 65,
+    "version": "1.2.65",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21162,10 +21162,10 @@
   {
     "name": "Tachiyomi: Mangahub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
-    "apk": "tachiyomi-ru.mangahub-v1.2.13.apk",
+    "apk": "tachiyomi-ru.mangahub-v1.2.14.apk",
     "lang": "ru",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22625,10 +22625,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.2.8.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.2.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22637,7 +22637,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "http://www.nettruyengo.com"
+        "baseUrl": "http://www.nettruyenmoi.com"
       }
     ]
   },
@@ -22954,10 +22954,10 @@
   {
     "name": "Tachiyomi: Jinmantiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.2.22.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.2.23.apk",
     "lang": "zh",
-    "code": 22,
-    "version": "1.2.22",
+    "code": 23,
+    "version": "1.2.23",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
