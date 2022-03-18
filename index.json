@@ -19097,13 +19097,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki155.net"
+        "baseUrl": "https://manatoki156.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki155.com"
+        "baseUrl": "https://newtoki156.com"
       }
     ]
   },
@@ -22549,10 +22549,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.2.11.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.2.12.apk",
     "lang": "vi",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
