@@ -4304,10 +4304,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.reaperscans",
-    "apk": "tachiyomi-all.reaperscans-v1.2.19.apk",
+    "apk": "tachiyomi-all.reaperscans-v1.2.20.apk",
     "lang": "all",
-    "code": 19,
-    "version": "1.2.19",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16646,6 +16646,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Shadow Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.shadowmangas",
+    "apk": "tachiyomi-es.shadowmangas-v1.2.13.apk",
+    "lang": "es",
+    "code": 13,
+    "version": "1.2.13",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Shadow Mangas",
+        "lang": "es",
+        "id": "2625405366577148715",
+        "baseUrl": "https://shadowmangas.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: submanga",
     "pkg": "eu.kanade.tachiyomi.extension.es.submanga",
     "apk": "tachiyomi-es.submanga-v1.2.5.apk",
@@ -21067,10 +21086,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libhentai",
-    "apk": "tachiyomi-ru.libhentai-v1.2.9.apk",
+    "apk": "tachiyomi-ru.libhentai-v1.2.10.apk",
     "lang": "ru",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21086,10 +21105,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.65.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.66.apk",
     "lang": "ru",
-    "code": 65,
-    "version": "1.2.65",
+    "code": 66,
+    "version": "1.2.66",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
