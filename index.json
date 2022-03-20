@@ -19775,10 +19775,10 @@
   {
     "name": "Tachiyomi: Hentai Teca",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hentaiteca",
-    "apk": "tachiyomi-pt.hentaiteca-v1.2.17.apk",
+    "apk": "tachiyomi-pt.hentaiteca-v1.2.18.apk",
     "lang": "pt-BR",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19927,10 +19927,10 @@
   {
     "name": "Tachiyomi: Kami Sama Explorer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer",
-    "apk": "tachiyomi-pt.kamisamaexplorer-v1.2.18.apk",
+    "apk": "tachiyomi-pt.kamisamaexplorer-v1.2.19.apk",
     "lang": "pt-BR",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19939,7 +19939,7 @@
         "name": "Kami Sama Explorer",
         "lang": "pt-BR",
         "id": "5221484950287110636",
-        "baseUrl": "https://kamisama.com.br"
+        "baseUrl": "https://leitor.kamisama.com.br"
       }
     ]
   },
