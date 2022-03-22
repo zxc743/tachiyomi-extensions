@@ -1053,10 +1053,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.2.11.apk",
+    "apk": "tachiyomi-all.cubari-v1.2.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
