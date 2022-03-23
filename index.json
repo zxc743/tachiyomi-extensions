@@ -19944,25 +19944,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Kitsune Niji",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.kitsuneniji",
-    "apk": "tachiyomi-pt.kitsuneniji-v1.2.17.apk",
-    "lang": "pt-BR",
-    "code": 17,
-    "version": "1.2.17",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kitsune Niji",
-        "lang": "pt-BR",
-        "id": "1763173583789040873",
-        "baseUrl": "https://kitsuneniji.online"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Lima Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.limascans",
     "apk": "tachiyomi-pt.limascans-v1.2.19.apk",
@@ -20016,25 +19997,6 @@
         "lang": "pt-BR",
         "id": "2691607827452752161",
         "baseUrl": "https://mangaschan.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaTeca",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangateca",
-    "apk": "tachiyomi-pt.mangateca-v1.2.20.apk",
-    "lang": "pt-BR",
-    "code": 20,
-    "version": "1.2.20",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaTeca",
-        "lang": "pt-BR",
-        "id": "1939906909653153144",
-        "baseUrl": "https://www.mangateca.com"
       }
     ]
   },
@@ -20514,25 +20476,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Rachel Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.rachelscanlator",
-    "apk": "tachiyomi-pt.rachelscanlator-v1.2.19.apk",
-    "lang": "pt-BR",
-    "code": 19,
-    "version": "1.2.19",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Rachel Scanlator",
-        "lang": "pt-BR",
-        "id": "6882798559431929878",
-        "baseUrl": "https://rachelscanlator.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Random Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
     "apk": "tachiyomi-pt.randomscan-v1.2.21.apk",
@@ -20586,25 +20529,6 @@
         "lang": "pt-BR",
         "id": "273341846992513187",
         "baseUrl": "https://saikaiscan.com.br"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Scanlator Hunters",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.scanlatorhunters",
-    "apk": "tachiyomi-pt.scanlatorhunters-v1.2.19.apk",
-    "lang": "pt-BR",
-    "code": 19,
-    "version": "1.2.19",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Scanlator Hunters",
-        "lang": "pt-BR",
-        "id": "3757266766758667750",
-        "baseUrl": "https://scanlatorhunters.xyz"
       }
     ]
   },
@@ -20932,25 +20856,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Wonderland",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.wonderland",
-    "apk": "tachiyomi-pt.wonderland-v1.2.20.apk",
-    "lang": "pt-BR",
-    "code": 20,
-    "version": "1.2.20",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Wonderland",
-        "lang": "pt-BR",
-        "id": "909178668919438067",
-        "baseUrl": "https://landwebtoons.site"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: YANP Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yanpfansub",
     "apk": "tachiyomi-pt.yanpfansub-v1.2.13.apk",
@@ -21067,10 +20972,10 @@
   {
     "name": "Tachiyomi: ComX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.2.14.apk",
+    "apk": "tachiyomi-ru.comx-v1.2.15.apk",
     "lang": "ru",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21105,10 +21010,10 @@
   {
     "name": "Tachiyomi: Henchan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.2.29.apk",
+    "apk": "tachiyomi-ru.henchan-v1.2.30.apk",
     "lang": "ru",
-    "code": 29,
-    "version": "1.2.29",
+    "code": 30,
+    "version": "1.2.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21181,10 +21086,10 @@
   {
     "name": "Tachiyomi: Mangachan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangachan",
-    "apk": "tachiyomi-ru.mangachan-v1.2.10.apk",
+    "apk": "tachiyomi-ru.mangachan-v1.2.11.apk",
     "lang": "ru",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21485,10 +21390,10 @@
   {
     "name": "Tachiyomi: Yaoichan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoichan",
-    "apk": "tachiyomi-ru.yaoichan-v1.2.1.apk",
+    "apk": "tachiyomi-ru.yaoichan-v1.2.2.apk",
     "lang": "ru",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
