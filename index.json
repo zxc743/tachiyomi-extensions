@@ -19116,13 +19116,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki156.net"
+        "baseUrl": "https://manatoki157.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki156.com"
+        "baseUrl": "https://newtoki157.com"
       }
     ]
   },
@@ -20972,10 +20972,10 @@
   {
     "name": "Tachiyomi: ComX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.2.15.apk",
+    "apk": "tachiyomi-ru.comx-v1.2.16.apk",
     "lang": "ru",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
