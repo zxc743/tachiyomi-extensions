@@ -19116,13 +19116,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki157.net"
+        "baseUrl": "https://manatoki158.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki157.com"
+        "baseUrl": "https://newtoki158.com"
       }
     ]
   },
@@ -19579,6 +19579,25 @@
         "lang": "pt-BR",
         "id": "7529658920665636296",
         "baseUrl": "https://dropescan.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Estufa de Cristal",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.estufadecristal",
+    "apk": "tachiyomi-pt.estufadecristal-v1.2.17.apk",
+    "lang": "pt-BR",
+    "code": 17,
+    "version": "1.2.17",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Estufa de Cristal",
+        "lang": "pt-BR",
+        "id": "4811324712999795318",
+        "baseUrl": "https://scanestufadecristal.site"
       }
     ]
   },
@@ -20383,10 +20402,10 @@
   {
     "name": "Tachiyomi: Origami Orpheans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.origamiorpheans",
-    "apk": "tachiyomi-pt.origamiorpheans-v1.2.20.apk",
+    "apk": "tachiyomi-pt.origamiorpheans-v1.2.21.apk",
     "lang": "pt-BR",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20394,7 +20413,7 @@
       {
         "name": "Origami Orpheans",
         "lang": "pt-BR",
-        "id": "7142690286455842082",
+        "id": "4038055363600290082",
         "baseUrl": "https://origami-orpheans.com.br"
       }
     ]
