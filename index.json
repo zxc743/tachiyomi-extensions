@@ -20362,25 +20362,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Olho da Lua",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.olhodalua",
-    "apk": "tachiyomi-pt.olhodalua-v1.2.19.apk",
-    "lang": "pt-BR",
-    "code": 19,
-    "version": "1.2.19",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Olho da Lua",
-        "lang": "pt-BR",
-        "id": "7880454169895372874",
-        "baseUrl": "https://olhodalua.xyz"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: One Piece Ex",
     "pkg": "eu.kanade.tachiyomi.extension.pt.opex",
     "apk": "tachiyomi-pt.opex-v1.2.4.apk",
@@ -20415,25 +20396,6 @@
         "lang": "pt-BR",
         "id": "4038055363600290082",
         "baseUrl": "https://origami-orpheans.com.br"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: OTksScanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.otksscanlator",
-    "apk": "tachiyomi-pt.otksscanlator-v1.2.17.apk",
-    "lang": "pt-BR",
-    "code": 17,
-    "version": "1.2.17",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "OTksScanlator",
-        "lang": "pt-BR",
-        "id": "4196417900021875698",
-        "baseUrl": "https://otkscanlator.xyz"
       }
     ]
   },
@@ -20681,25 +20643,6 @@
         "lang": "pt-BR",
         "id": "7330705555862299741",
         "baseUrl": "https://sodascan.xyz"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: StageComics",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.stagecomics",
-    "apk": "tachiyomi-pt.stagecomics-v1.2.20.apk",
-    "lang": "pt-BR",
-    "code": 20,
-    "version": "1.2.20",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "StageComics",
-        "lang": "pt-BR",
-        "id": "7433475649528583036",
-        "baseUrl": "https://stagecomics.com"
       }
     ]
   },
