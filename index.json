@@ -6229,25 +6229,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: BL Comics",
-    "pkg": "eu.kanade.tachiyomi.extension.en.blcomics",
-    "apk": "tachiyomi-en.blcomics-v1.2.19.apk",
-    "lang": "en",
-    "code": 19,
-    "version": "1.2.19",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "BL Comics",
-        "lang": "en",
-        "id": "1304101419791502898",
-        "baseUrl": "https://blcomics.net"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Block Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.blockmanga",
     "apk": "tachiyomi-en.blockmanga-v1.2.20.apk",
