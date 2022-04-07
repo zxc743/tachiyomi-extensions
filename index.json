@@ -18628,6 +18628,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comick",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comick",
+    "apk": "tachiyomi-ja.comick-v1.2.2.apk",
+    "lang": "ja",
+    "code": 2,
+    "version": "1.2.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comick",
+        "lang": "ja",
+        "id": "7016065305092188139",
+        "baseUrl": "https://comick.top"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comiplex",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comiplex",
     "apk": "tachiyomi-ja.comiplex-v1.2.4.apk",
@@ -18723,6 +18742,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga1001",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.manga1001",
+    "apk": "tachiyomi-ja.manga1001-v1.2.2.apk",
+    "lang": "ja",
+    "code": 2,
+    "version": "1.2.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga1001",
+        "lang": "ja",
+        "id": "4239270419267556174",
+        "baseUrl": "https://manga1001.top/"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Gohan",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangagohan",
     "apk": "tachiyomi-ja.mangagohan-v1.2.18.apk",
@@ -18742,22 +18780,16 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaRaw",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.mangaraw",
-    "apk": "tachiyomi-ja.mangaraw-v1.2.5.apk",
+    "name": "Tachiyomi: MangaPro",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangapro",
+    "apk": "tachiyomi-ja.mangapro-v1.2.2.apk",
     "lang": "ja",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
-      {
-        "name": "Comick",
-        "lang": "ja",
-        "id": "7016065305092188139",
-        "baseUrl": "https://comick.top"
-      },
       {
         "name": "MangaPro",
         "lang": "ja",
@@ -18957,6 +18989,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: SyoSetu",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.syosetu",
+    "apk": "tachiyomi-ja.syosetu-v1.2.2.apk",
+    "lang": "ja",
+    "code": 2,
+    "version": "1.2.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SyoSetu",
+        "lang": "ja",
+        "id": "1096552239279648467",
+        "baseUrl": "https://syosetu.top"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tonari no Young Jump",
     "pkg": "eu.kanade.tachiyomi.extension.ja.tonarinoyoungjump",
     "apk": "tachiyomi-ja.tonarinoyoungjump-v1.2.4.apk",
@@ -19116,13 +19167,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki158.net"
+        "baseUrl": "https://manatoki159.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki158.com"
+        "baseUrl": "https://newtoki159.com"
       }
     ]
   },
@@ -20700,6 +20751,25 @@
         "lang": "pt-BR",
         "id": "7640190247679480703",
         "baseUrl": "https://tatakaescan.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: The Sugar",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.thesugar",
+    "apk": "tachiyomi-pt.thesugar-v1.2.18.apk",
+    "lang": "pt-BR",
+    "code": 18,
+    "version": "1.2.18",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "The Sugar",
+        "lang": "pt-BR",
+        "id": "7629474608769069359",
+        "baseUrl": "https://thesugarscan.com"
       }
     ]
   },
