@@ -3497,10 +3497,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.2.29.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.2.30.apk",
     "lang": "all",
-    "code": 29,
-    "version": "1.2.29",
+    "code": 30,
+    "version": "1.2.30",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -13247,10 +13247,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.2.11.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.2.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20941,6 +20941,25 @@
         "lang": "pt-BR",
         "id": "4476506734614164770",
         "baseUrl": "https://yuri.live"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ZombieLand Saga Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.zombielandsagascans",
+    "apk": "tachiyomi-pt.zombielandsagascans-v1.2.19.apk",
+    "lang": "pt-BR",
+    "code": 19,
+    "version": "1.2.19",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ZombieLand Saga Scans",
+        "lang": "pt-BR",
+        "id": "8732325749219823944",
+        "baseUrl": "https://zombiland.com.br"
       }
     ]
   },
