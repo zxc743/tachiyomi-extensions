@@ -6768,10 +6768,10 @@
   {
     "name": "Tachiyomi: EarlyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.earlymanga",
-    "apk": "tachiyomi-en.earlymanga-v1.2.16.apk",
+    "apk": "tachiyomi-en.earlymanga-v1.2.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6780,7 +6780,7 @@
         "name": "EarlyManga",
         "lang": "en",
         "id": "6241754258417429248",
-        "baseUrl": "https://earlymanga.org"
+        "baseUrl": "https://earlym.org"
       }
     ]
   },
@@ -10359,10 +10359,10 @@
   {
     "name": "Tachiyomi: manga-raw.club",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.2.9.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.2.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20546,6 +20546,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: RWBY Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.rwbyscan",
+    "apk": "tachiyomi-pt.rwbyscan-v1.2.20.apk",
+    "lang": "pt-BR",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RWBY Scan",
+        "lang": "pt-BR",
+        "id": "5171464199985269264",
+        "baseUrl": "https://rwbyscan.site"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Saikai Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
     "apk": "tachiyomi-pt.saikaiscan-v1.2.8.apk",
@@ -22946,6 +22965,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Haoman6",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6",
+    "apk": "tachiyomi-zh.haoman6-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "好漫6",
+        "lang": "zh",
+        "id": "1079759561750820890",
+        "baseUrl": "https://www.haoman6.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Imitui Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.imitui",
     "apk": "tachiyomi-zh.imitui-v1.2.2.apk",
@@ -23271,10 +23309,10 @@
   {
     "name": "Tachiyomi: Yimmh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.yimmh",
-    "apk": "tachiyomi-zh.yimmh-v1.2.4.apk",
+    "apk": "tachiyomi-zh.yimmh-v1.2.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
