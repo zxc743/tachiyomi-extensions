@@ -23273,10 +23273,10 @@
   {
     "name": "Tachiyomi: Zerobyw",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
-    "apk": "tachiyomi-zh.zerobyw-v1.2.6.apk",
+    "apk": "tachiyomi-zh.zerobyw-v1.2.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23285,7 +23285,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "https://www.zerobywrevi.com"
+        "baseUrl": "https://www.zerobyw.com"
       }
     ]
   }
