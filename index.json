@@ -2854,643 +2854,607 @@
   {
     "name": "Tachiyomi: MangaPark v3",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.2.14.apk",
+    "apk": "tachiyomi-all.mangapark-v1.2.15.apk",
     "lang": "all",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "MangaPark v3",
-        "lang": "en",
-        "id": "3513686203838259177",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "ar",
-        "id": "3387426505250686906",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "bg",
-        "id": "7959556872709667142",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "zh",
-        "id": "5984045916096145066",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "cs",
-        "id": "1800281920810282252",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "da",
-        "id": "2048857002853550993",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "nl",
-        "id": "6670191464728641414",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "fil",
-        "id": "2699946919114156692",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "fi",
-        "id": "2065218871354836005",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "fr",
-        "id": "756719682321148744",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "de",
-        "id": "7320009109253486308",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "el",
-        "id": "8081857609308806917",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "he",
-        "id": "3967101310766157687",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "hi",
-        "id": "5300153195696845250",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "hu",
-        "id": "1231895448304901856",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "id",
-        "id": "6455217313480460565",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "it",
-        "id": "3521694741397495273",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "ja",
-        "id": "4873933718654525639",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "ko",
-        "id": "5252088393332332483",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "ms",
-        "id": "1617872991363481068",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "pl",
-        "id": "7340812664347664345",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "pt",
-        "id": "3118167437832953130",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "pt-BR",
-        "id": "548122314936042002",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "ro",
-        "id": "4836231688374717370",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "ru",
-        "id": "4001912574626643621",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "es",
-        "id": "849937850135718508",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "es-419",
-        "id": "5742212923719572167",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "sv",
-        "id": "8420272232338216612",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "th",
-        "id": "3147158942860101957",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "tr",
-        "id": "8503804812832839474",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "uk",
-        "id": "8440337840124427528",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "vi",
-        "id": "992102393293497864",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
         "lang": "af",
         "id": "2189072532356018345",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sq",
         "id": "2613653478078945635",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "am",
         "id": "4682219906772368645",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "ar",
+        "id": "3387426505250686906",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "hy",
         "id": "6227316658295045553",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "az",
         "id": "2563913118945827442",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "be",
         "id": "8405265357653127762",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "bn",
         "id": "4993896613845482029",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "bs",
         "id": "7776327503661990240",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "bg",
+        "id": "7959556872709667142",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "my",
         "id": "1373304227605294243",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "km",
         "id": "2432565571532821764",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ca",
         "id": "5667011247637684501",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ceb",
         "id": "8206894446800995776",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "zh",
+        "id": "5984045916096145066",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "zh-Hans",
         "id": "6306867705763005424",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "zh-Hant",
         "id": "4563855043528673539",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "hr",
         "id": "7054802205989696898",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
-        "lang": "en-US",
-        "id": "4993009521867709713",
-        "baseUrl": "https://v35.mangapark.net"
+        "lang": "cs",
+        "id": "1800281920810282252",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "da",
+        "id": "2048857002853550993",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "nl",
+        "id": "6670191464728641414",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "en",
+        "id": "3513686203838259177",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "eo",
         "id": "4218560676070021155",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "et",
         "id": "5195321144443271828",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "fo",
         "id": "3071613728336385603",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "fil",
+        "id": "2699946919114156692",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "fi",
+        "id": "2065218871354836005",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "fr",
+        "id": "756719682321148744",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ka",
         "id": "2031703106413113935",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "de",
+        "id": "7320009109253486308",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "el",
+        "id": "8081857609308806917",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "gn",
         "id": "6026198174301510376",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "gu",
-        "id": "5591373830631859804",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ht",
         "id": "2945798569463989522",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ha",
         "id": "1425913661848133862",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "he",
+        "id": "3967101310766157687",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "hi",
+        "id": "5300153195696845250",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "hu",
+        "id": "1231895448304901856",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "is",
         "id": "5771020797971964470",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ig",
         "id": "5389137828643554344",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "id",
+        "id": "6455217313480460565",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ga",
         "id": "6041879547611646362",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "it",
+        "id": "3521694741397495273",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "ja",
+        "id": "4873933718654525639",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "jv",
         "id": "2190131308263898238",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "kn",
-        "id": "1542598463654902316",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "kk",
         "id": "1879517228632771244",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "ko",
+        "id": "5252088393332332483",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ku",
         "id": "8437278023477395223",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ky",
         "id": "5849453449900294241",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "lo",
         "id": "6566938858777014275",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "lv",
         "id": "9211249416766620728",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "lt",
         "id": "701912725431093137",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "lb",
         "id": "6746132238713933182",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "mk",
         "id": "1244178996658637445",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "mg",
         "id": "7301924480315944853",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "ms",
+        "id": "1617872991363481068",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ml",
         "id": "5345548338210511123",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "mt",
         "id": "6271776486994776626",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "mi",
         "id": "8597924723233893549",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "mr",
-        "id": "1216080933766608161",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "mo",
         "id": "7298853649198357919",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "mn",
         "id": "5739266782931453008",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ne",
         "id": "5539784444896539666",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "no",
         "id": "973869868069849080",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ny",
         "id": "4446168437912260358",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ps",
         "id": "8696935401223405550",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "fa",
         "id": "7214328693005220018",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "pl",
+        "id": "7340812664347664345",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "pt",
+        "id": "3118167437832953130",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "pt-BR",
+        "id": "548122314936042002",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "ro",
+        "id": "4836231688374717370",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "rm",
         "id": "6621455447785537932",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "ru",
+        "id": "4001912574626643621",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sm",
         "id": "4403672882045802869",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sr",
         "id": "7598310418676716045",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sh",
         "id": "419934344911600066",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "st",
         "id": "4598242679139162747",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sn",
         "id": "6480982775832430038",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sd",
         "id": "8228761233939716698",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "si",
         "id": "5874212790770847039",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sk",
         "id": "5080069899767217992",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sl",
         "id": "3723251558343102462",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "so",
         "id": "2253838798281135449",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "es",
+        "id": "849937850135718508",
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "es-419",
+        "id": "5742212923719572167",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "sw",
         "id": "267324295974374797",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "sv",
+        "id": "8420272232338216612",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "tg",
         "id": "3705462466345836941",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ta",
         "id": "714615335901880805",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "th",
+        "id": "3147158942860101957",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ti",
         "id": "7074634578563204406",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "to",
         "id": "1611870251681189629",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "tr",
+        "id": "8503804812832839474",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "tk",
         "id": "2114173203633021214",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "uk",
+        "id": "8440337840124427528",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "ur",
         "id": "6752570624535670449",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "uz",
         "id": "2328877259757926312",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
+      },
+      {
+        "name": "MangaPark v3",
+        "lang": "vi",
+        "id": "992102393293497864",
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "yo",
         "id": "8195442767952600247",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "zu",
         "id": "8232076863570856714",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       },
       {
         "name": "MangaPark v3",
         "lang": "other",
         "id": "5312891887337671615",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "eu",
-        "id": "3978233739183750771",
-        "baseUrl": "https://v35.mangapark.net"
-      },
-      {
-        "name": "MangaPark v3",
-        "lang": "pt-PT",
-        "id": "1188221056621974476",
-        "baseUrl": "https://v35.mangapark.net"
+        "baseUrl": "https://mangapark.net"
       }
     ]
   },
@@ -7452,10 +7416,10 @@
   {
     "name": "Tachiyomi: HentaiFox",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaifox",
-    "apk": "tachiyomi-en.hentaifox-v1.2.3.apk",
+    "apk": "tachiyomi-en.hentaifox-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13241,25 +13205,6 @@
         "lang": "en",
         "id": "6207801235158968822",
         "baseUrl": "https://ww1.readchainsawman.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ReadComicOnline",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.2.12.apk",
-    "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ReadComicOnline",
-        "lang": "en",
-        "id": "8061953015808280611",
-        "baseUrl": "https://readcomiconline.li"
       }
     ]
   },
@@ -23138,10 +23083,10 @@
   {
     "name": "Tachiyomi: CoCoManhua (OhManhua)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-    "apk": "tachiyomi-zh.onemanhua-v1.2.10.apk",
+    "apk": "tachiyomi-zh.onemanhua-v1.2.11.apk",
     "lang": "zh",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
