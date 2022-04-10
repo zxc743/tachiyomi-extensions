@@ -20778,10 +20778,10 @@
   {
     "name": "Tachiyomi: Vapo Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.vaposcan",
-    "apk": "tachiyomi-pt.vaposcan-v1.2.16.apk",
+    "apk": "tachiyomi-pt.vaposcan-v1.2.20.apk",
     "lang": "pt-BR",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
