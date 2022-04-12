@@ -20415,6 +20415,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Prisma Hentais",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.prismahentais",
+    "apk": "tachiyomi-pt.prismahentais-v1.2.20.apk",
+    "lang": "pt-BR",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Prisma Hentais",
+        "lang": "pt-BR",
+        "id": "7056253736370072931",
+        "baseUrl": "https://prismahentai.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Prisma Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
     "apk": "tachiyomi-pt.prismascans-v1.2.22.apk",
