@@ -18604,6 +18604,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Corocoro Online",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.corocoroonline",
+    "apk": "tachiyomi-ja.corocoroonline-v1.2.4.apk",
+    "lang": "ja",
+    "code": 4,
+    "version": "1.2.4",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Corocoro Online",
+        "lang": "ja",
+        "id": "1350031097791790557",
+        "baseUrl": "https://corocoro.jp"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
     "apk": "tachiyomi-ja.kisslove-v1.2.7.apk",
