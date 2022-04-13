@@ -5806,6 +5806,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Adult Webtoon",
+    "pkg": "eu.kanade.tachiyomi.extension.en.adultwebtoon",
+    "apk": "tachiyomi-en.adultwebtoon-v1.2.20.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Adult Webtoon",
+        "lang": "en",
+        "id": "3136868295051070813",
+        "baseUrl": "https://adultwebtoon.com/"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Agent of Change Translations",
     "pkg": "eu.kanade.tachiyomi.extension.en.agentofchangetranslations",
     "apk": "tachiyomi-en.agentofchangetranslations-v1.2.21.apk",
@@ -19124,13 +19143,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki159.net"
+        "baseUrl": "https://manatoki160.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki159.com"
+        "baseUrl": "https://newtoki160.com"
       }
     ]
   },
