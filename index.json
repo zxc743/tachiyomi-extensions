@@ -6699,6 +6699,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Drake Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
+    "apk": "tachiyomi-en.drakescans-v1.2.20.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Drake Scans",
+        "lang": "en",
+        "id": "2763484419787956351",
+        "baseUrl": "https://drakescans.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dream Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.dreammanga",
     "apk": "tachiyomi-en.dreammanga-v1.2.22.apk",
