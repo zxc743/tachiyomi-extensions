@@ -4409,10 +4409,10 @@
   {
     "name": "Tachiyomi: Tachidesk",
     "pkg": "eu.kanade.tachiyomi.extension.all.tachidesk",
-    "apk": "tachiyomi-all.tachidesk-v1.2.3.apk",
+    "apk": "tachiyomi-all.tachidesk-v1.2.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5802,6 +5802,25 @@
         "lang": "en",
         "id": "8942644713684291855",
         "baseUrl": "https://acescans.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Adult Painful Nightz",
+    "pkg": "eu.kanade.tachiyomi.extension.en.adultpainfulnightz",
+    "apk": "tachiyomi-en.adultpainfulnightz-v1.2.20.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Adult Painful Nightz",
+        "lang": "en",
+        "id": "857401065227973859",
+        "baseUrl": "https://adults.painfulnightz.com"
       }
     ]
   },
@@ -9024,10 +9043,10 @@
   {
     "name": "Tachiyomi: Manga Chill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangachill",
-    "apk": "tachiyomi-en.mangachill-v1.2.23.apk",
+    "apk": "tachiyomi-en.mangachill-v1.2.24.apk",
     "lang": "en",
-    "code": 23,
-    "version": "1.2.23",
+    "code": 24,
+    "version": "1.2.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9036,7 +9055,7 @@
         "name": "Manga Chill",
         "lang": "en",
         "id": "1646428256207102930",
-        "baseUrl": "https://mangachill.com"
+        "baseUrl": "https://mangachill.love"
       }
     ]
   },
@@ -16409,6 +16428,25 @@
         "lang": "es",
         "id": "4501201462814418979",
         "baseUrl": "https://mangapt.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangasTK",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangastk",
+    "apk": "tachiyomi-es.mangastk-v1.2.20.apk",
+    "lang": "es",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangasTK",
+        "lang": "es",
+        "id": "3172894373634175439",
+        "baseUrl": "https://mangastk.com"
       }
     ]
   },
