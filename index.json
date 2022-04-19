@@ -14002,10 +14002,10 @@
   {
     "name": "Tachiyomi: Realm Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.realmscans",
-    "apk": "tachiyomi-en.realmscans-v1.2.14.apk",
+    "apk": "tachiyomi-en.realmscans-v1.2.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19743,6 +19743,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Fleur Blanche",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
+    "apk": "tachiyomi-pt.fleurblanche-v1.2.21.apk",
+    "lang": "pt-BR",
+    "code": 21,
+    "version": "1.2.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fleur Blanche",
+        "lang": "pt-BR",
+        "id": "2748000026130339026",
+        "baseUrl": "https://fbsquadz.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Fox White",
     "pkg": "eu.kanade.tachiyomi.extension.pt.foxwhite",
     "apk": "tachiyomi-pt.foxwhite-v1.2.20.apk",
@@ -19840,10 +19859,10 @@
   {
     "name": "Tachiyomi: Gekkou Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouscan",
-    "apk": "tachiyomi-pt.gekkouscan-v1.2.16.apk",
+    "apk": "tachiyomi-pt.gekkouscan-v1.2.17.apk",
     "lang": "pt-BR",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21208,10 +21227,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libhentai",
-    "apk": "tachiyomi-ru.libhentai-v1.2.12.apk",
+    "apk": "tachiyomi-ru.libhentai-v1.2.13.apk",
     "lang": "ru",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21227,10 +21246,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.68.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.69.apk",
     "lang": "ru",
-    "code": 68,
-    "version": "1.2.68",
+    "code": 69,
+    "version": "1.2.69",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22981,10 +23000,10 @@
   {
     "name": "Tachiyomi: CopyManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-    "apk": "tachiyomi-zh.copymanga-v1.2.24.apk",
+    "apk": "tachiyomi-zh.copymanga-v1.2.25.apk",
     "lang": "zh",
-    "code": 24,
-    "version": "1.2.24",
+    "code": 25,
+    "version": "1.2.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
