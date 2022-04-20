@@ -9575,10 +9575,10 @@
   {
     "name": "Tachiyomi: Mangahere",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahere",
-    "apk": "tachiyomi-en.mangahere-v1.2.17.apk",
+    "apk": "tachiyomi-en.mangahere-v1.2.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19219,13 +19219,13 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki160.net"
+        "baseUrl": "https://manatoki161.net"
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki160.com"
+        "baseUrl": "https://newtoki161.com"
       }
     ]
   },
