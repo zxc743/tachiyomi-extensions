@@ -6739,10 +6739,10 @@
   {
     "name": "Tachiyomi: Dream Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.dreammanga",
-    "apk": "tachiyomi-en.dreammanga-v1.2.22.apk",
+    "apk": "tachiyomi-en.dreammanga-v1.2.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.2.22",
+    "code": 23,
+    "version": "1.2.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6751,7 +6751,7 @@
         "name": "Dream Manga",
         "lang": "en",
         "id": "2878081273084147712",
-        "baseUrl": "https://en.ruyamanga.com"
+        "baseUrl": "https://www.swarmmanga.com"
       }
     ]
   },
@@ -7844,25 +7844,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Hyakuro",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hyakuro",
-    "apk": "tachiyomi-en.hyakuro-v1.2.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hyakuro",
-        "lang": "en",
-        "id": "2885316857939742826",
-        "baseUrl": "https://hyakuro.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Immortal Updates",
     "pkg": "eu.kanade.tachiyomi.extension.en.immortalupdates",
     "apk": "tachiyomi-en.immortalupdates-v1.2.22.apk",
@@ -7941,10 +7922,10 @@
   {
     "name": "Tachiyomi: InstaManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.instamanhwa",
-    "apk": "tachiyomi-en.instamanhwa-v1.2.20.apk",
+    "apk": "tachiyomi-en.instamanhwa-v1.2.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20467,10 +20448,10 @@
   {
     "name": "Tachiyomi: Neox Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.neoxscanlator",
-    "apk": "tachiyomi-pt.neoxscanlator-v1.2.29.apk",
+    "apk": "tachiyomi-pt.neoxscanlator-v1.2.30.apk",
     "lang": "pt-BR",
-    "code": 29,
-    "version": "1.2.29",
+    "code": 30,
+    "version": "1.2.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21208,10 +21189,10 @@
   {
     "name": "Tachiyomi: Henchan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.2.31.apk",
+    "apk": "tachiyomi-ru.henchan-v1.2.32.apk",
     "lang": "ru",
-    "code": 31,
-    "version": "1.2.31",
+    "code": 32,
+    "version": "1.2.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21220,7 +21201,7 @@
         "name": "Henchan",
         "lang": "ru",
         "id": "5504588601186153612",
-        "baseUrl": "https://x.hentaichan.live"
+        "baseUrl": "https://xx.hentaichan.live"
       }
     ]
   },
@@ -22688,21 +22669,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Hentai Cube",
+    "name": "Tachiyomi: Hentai CB",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.2.20.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.2.21.apk",
     "lang": "vi",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Hentai Cube",
+        "name": "Hentai CB",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hentaicube.net"
+        "baseUrl": "https://hentaicb.top"
       }
     ]
   },
