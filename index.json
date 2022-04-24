@@ -4280,10 +4280,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.reaperscans",
-    "apk": "tachiyomi-all.reaperscans-v1.2.24.apk",
+    "apk": "tachiyomi-all.reaperscans-v1.2.25.apk",
     "lang": "all",
-    "code": 24,
-    "version": "1.2.24",
+    "code": 25,
+    "version": "1.2.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4299,6 +4299,24 @@
         "lang": "pt-BR",
         "id": "7767018058145795388",
         "baseUrl": "https://reaperscans.com.br"
+      },
+      {
+        "name": "Reaper Scans",
+        "lang": "tr",
+        "id": "6541036378026002363",
+        "baseUrl": "https://reaperscanstr.com"
+      },
+      {
+        "name": "Reaper Scans",
+        "lang": "id",
+        "id": "3411809758861089969",
+        "baseUrl": "https://reaperscans.id"
+      },
+      {
+        "name": "Reaper Scans",
+        "lang": "fr",
+        "id": "8222507730733516974",
+        "baseUrl": "https://new.reaperscans.fr"
       }
     ]
   },
@@ -7935,6 +7953,25 @@
         "lang": "en",
         "id": "1510825044590659396",
         "baseUrl": "https://www.instamanhwa.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: I Roved Out",
+    "pkg": "eu.kanade.tachiyomi.extension.en.irovedout",
+    "apk": "tachiyomi-en.irovedout-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "I Roved Out",
+        "lang": "en",
+        "id": "8197175895739916188",
+        "baseUrl": "https://irovedout.com"
       }
     ]
   },
@@ -16913,25 +16950,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ReaperScans.fr (GS)",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.gsnation",
-    "apk": "tachiyomi-fr.gsnation-v1.2.14.apk",
-    "lang": "fr",
-    "code": 14,
-    "version": "1.2.14",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ReaperScans.fr (GS)",
-        "lang": "fr",
-        "id": "8953394032396297337",
-        "baseUrl": "https://reaperscans.fr"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: HentaiZone",
     "pkg": "eu.kanade.tachiyomi.extension.fr.hentaizone",
     "apk": "tachiyomi-fr.hentaizone-v1.2.20.apk",
@@ -19302,6 +19320,25 @@
         "lang": "pl",
         "id": "3444391865384419960",
         "baseUrl": "https://phoenix-scans.pl"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Wanted Team",
+    "pkg": "eu.kanade.tachiyomi.extension.pl.wantedteam",
+    "apk": "tachiyomi-pl.wantedteam-v1.2.3.apk",
+    "lang": "pl",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Wanted Team",
+        "lang": "pl",
+        "id": "4087849569627303225",
+        "baseUrl": "https://reader.onepiecenakama.pl"
       }
     ]
   },
