@@ -10389,6 +10389,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaPlex",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangaplex",
+    "apk": "tachiyomi-en.mangaplex-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaPlex",
+        "lang": "en",
+        "id": "7966610730196433224",
+        "baseUrl": "https://mangaplex.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Queen",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaqueen",
     "apk": "tachiyomi-en.mangaqueen-v1.2.20.apk",
@@ -23025,31 +23044,6 @@
         "lang": "zh",
         "id": "5943234929466346733",
         "baseUrl": "https://comic.bh3.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Comico",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.comico",
-    "apk": "tachiyomi-zh.comico-v1.2.3.apk",
-    "lang": "zh",
-    "code": 3,
-    "version": "1.2.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Comico Official (Limited free chapters)",
-        "lang": "zh",
-        "id": "3447127973257049378",
-        "baseUrl": "https://www.comico.com.tw"
-      },
-      {
-        "name": "Comico Challenge",
-        "lang": "zh",
-        "id": "1940075802000527244",
-        "baseUrl": "https://www.comico.com.tw"
       }
     ]
   },
